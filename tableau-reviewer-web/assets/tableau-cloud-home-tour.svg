@@ -1,0 +1,149 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1890 960" role="img" aria-labelledby="title desc">
+  <title id="title">Annotated Tableau Cloud home page</title>
+  <desc id="desc">A Tableau Cloud home page diagram with numbered callouts pointing to navigation, search, recents, recommendations, new content menu, account tools, and content cards.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0 0 L12 6 L0 12 Z" fill="#2563eb"/>
+    </marker>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="12" stdDeviation="10" flood-color="#0f172a" flood-opacity=".18"/>
+    </filter>
+    <style>
+      .ui{font-family:Arial,Helvetica,sans-serif;fill:#17212b}
+      .muted{fill:#697987}
+      .tiny{font-size:13px}
+      .small{font-size:16px}
+      .mid{font-size:20px}
+      .label{font-size:18px;font-weight:800;fill:#0f172a}
+      .call{font-family:Arial,Helvetica,sans-serif;font-size:17px;font-weight:800;fill:#fff}
+      .arrow{stroke:#2563eb;stroke-width:4;fill:none;marker-end:url(#arrow)}
+      .dot{fill:#2563eb;stroke:#fff;stroke-width:4}
+      .card{fill:#fff;stroke:#d8e1e8}
+      .thumb{fill:#f8fafc;stroke:#d8e1e8}
+      .bar{fill:#4c78a8}
+    </style>
+  </defs>
+  <rect width="1890" height="960" fill="#fff"/>
+  <rect x="0" y="0" width="1890" height="44" fill="#f8f9fb" stroke="#d8e1e8"/>
+  <text x="91" y="28" class="ui small">https://prod-apsoutheast-b.online.tableau.com/#/site/bpims/home</text>
+  <rect x="78" y="6" width="1540" height="32" rx="16" fill="#fff" stroke="#c8d0d8"/>
+  <text x="1588" y="27" class="ui small">Star</text>
+  <text x="1642" y="27" class="ui small">Settings</text>
+  <text x="1728" y="27" class="ui small">User</text>
+  <text x="1810" y="27" class="ui small">Chat</text>
+  <rect x="0" y="44" width="229" height="916" fill="#f7f7f8" stroke="#d8e1e8"/>
+  <text x="86" y="135" class="ui mid" font-weight="800" fill="#e55b3c">+</text>
+  <text x="102" y="136" class="ui mid" font-weight="800" fill="#2b65b1">+</text>
+  <text x="119" y="134" class="ui mid" font-weight="800" fill="#2b65b1">+</text>
+  <rect x="0" y="168" width="229" height="40" fill="#ececec"/>
+  <g class="ui small">
+    <text x="43" y="193">Home</text>
+    <text x="43" y="233" class="muted">Favorites</text>
+    <text x="43" y="273" class="muted">Recents</text>
+    <text x="43" y="313" class="muted">Shared with Me</text>
+    <text x="43" y="353" class="muted">Recommendations</text>
+    <line x1="13" y1="385" x2="216" y2="385" stroke="#d8e1e8"/>
+    <text x="43" y="426" class="muted">Personal Space</text>
+    <text x="43" y="466" class="muted">Collections</text>
+    <text x="43" y="506" class="muted">Explore</text>
+    <text x="43" y="546" class="muted">Tableau Pulse</text>
+    <line x1="13" y1="578" x2="216" y2="578" stroke="#d8e1e8"/>
+    <text x="43" y="619" class="muted">External Assets</text>
+    <line x1="13" y1="650" x2="216" y2="650" stroke="#d8e1e8"/>
+    <text x="43" y="694" class="muted">Recycle Bin</text>
+  </g>
+  <rect x="1350" y="54" width="370" height="32" fill="#fff" stroke="#17212b"/>
+  <text x="1381" y="76" class="ui small muted">Search for views, workbooks, and more</text>
+  <circle cx="1753" cy="70" r="11" fill="none" stroke="#17212b"/>
+  <text x="1749" y="75" class="ui tiny">?</text>
+  <path d="M1790 78 c8 0 18 0 18 0 c-3 -4 -4 -10 -4 -16 c0 -9 -7 -15 -14 -15 c-8 0 -14 6 -14 15 c0 6 -1 12 -4 16z" fill="none" stroke="#17212b"/>
+  <circle cx="1850" cy="70" r="17" fill="#2f6c8f"/>
+  <text x="1841" y="76" class="ui small" fill="#fff">RT</text>
+  <text x="254" y="148" class="ui" font-size="26">Home</text>
+  <text x="257" y="213" class="ui mid">Recents</text>
+  <line x1="255" y1="227" x2="1660" y2="227" stroke="#d8e1e8"/>
+  <g>
+    <rect class="thumb" x="255" y="247" width="300" height="185"/>
+    <rect class="thumb" x="589" y="247" width="300" height="185"/>
+    <rect class="thumb" x="923" y="247" width="300" height="185" fill="#d1d5db"/>
+    <rect class="thumb" x="1257" y="247" width="300" height="185"/>
+    <g transform="translate(607 263)">
+      <rect class="bar" x="0" y="8" width="8" height="11"/><rect class="bar" x="0" y="25" width="11" height="11"/><rect class="bar" x="0" y="43" width="14" height="11"/><rect class="bar" x="0" y="62" width="268" height="5"/>
+    </g>
+    <g transform="translate(1277 265)">
+      <rect class="bar" x="0" y="0" width="205" height="5"/><rect class="bar" x="0" y="12" width="137" height="5"/><rect class="bar" x="0" y="24" width="101" height="5"/><rect class="bar" x="0" y="36" width="76" height="5"/><rect class="bar" x="0" y="48" width="54" height="5"/><rect class="bar" x="0" y="60" width="42" height="5"/>
+    </g>
+    <text x="267" y="461" class="ui small" font-weight="700">Sheet 1</text>
+    <text x="267" y="482" class="ui tiny muted">yesterday</text>
+    <text x="601" y="461" class="ui small" font-weight="700">Sheet 1</text>
+    <text x="601" y="482" class="ui tiny muted">yesterday</text>
+    <text x="935" y="461" class="ui small" font-weight="700">GPW Dashboard</text>
+    <text x="935" y="482" class="ui tiny muted">3 days ago</text>
+    <text x="1269" y="461" class="ui small" font-weight="700">GPW by Contract Type</text>
+    <text x="1269" y="482" class="ui tiny muted">3 days ago</text>
+    <text x="465" y="461" class="ui small muted">i</text><text x="496" y="461" class="ui small muted">star</text><text x="530" y="461" class="ui small muted">...</text>
+    <text x="1140" y="461" class="ui small muted">i</text><text x="1170" y="461" class="ui small muted">star</text><text x="1205" y="461" class="ui small muted">...</text>
+  </g>
+  <text x="257" y="583" class="ui mid">Recommendations</text>
+  <line x1="255" y1="598" x2="1660" y2="598" stroke="#d8e1e8"/>
+  <text x="1808" y="583" class="ui tiny" fill="#006082" font-weight="700">See All</text>
+  <g>
+    <rect class="thumb" x="255" y="616" width="300" height="187"/>
+    <rect class="thumb" x="589" y="616" width="300" height="187"/>
+    <rect class="thumb" x="923" y="616" width="300" height="187"/>
+    <g transform="translate(275 636)">
+      <rect class="bar" x="0" y="132" width="17" height="33"/><rect class="bar" x="27" y="115" width="17" height="50"/><rect class="bar" x="54" y="148" width="17" height="17"/><rect class="bar" x="81" y="158" width="17" height="7"/><rect class="bar" x="108" y="153" width="17" height="12"/><rect class="bar" x="135" y="102" width="17" height="63"/><rect class="bar" x="162" y="10" width="17" height="155"/><rect class="bar" x="189" y="128" width="17" height="37"/><rect class="bar" x="216" y="30" width="17" height="135"/>
+    </g>
+    <text x="267" y="833" class="ui small" font-weight="700">GPW.FIRE</text>
+    <text x="267" y="855" class="ui tiny muted">Why is this recommended?</text>
+    <text x="601" y="833" class="ui small" font-weight="700">Sheet 1</text>
+    <text x="601" y="855" class="ui tiny muted">Why is this recommended?</text>
+    <text x="935" y="833" class="ui small" font-weight="700">Sheet 1</text>
+    <text x="935" y="855" class="ui tiny muted">Why is this recommended?</text>
+  </g>
+  <rect x="1776" y="129" width="80" height="23" fill="#c9c9c9" stroke="#17212b"/>
+  <text x="1798" y="145" class="ui tiny" font-weight="700">New</text>
+  <rect x="1673" y="152" width="183" height="258" fill="#fff" stroke="#c7ced6" filter="url(#shadow)"/>
+  <g class="ui small">
+    <text x="1709" y="180" fill="#c2c7cc">Project</text>
+    <text x="1709" y="209">Workbook</text>
+    <rect x="1679" y="219" width="169" height="30" fill="#e6e6e6" stroke="#a8a8a8"/>
+    <text x="1709" y="239">Flow</text>
+    <text x="1709" y="269">Published Data Source</text>
+    <text x="1709" y="299">Virtual Connection</text>
+    <line x1="1682" y1="318" x2="1848" y2="318" stroke="#c7ced6"/>
+    <text x="1709" y="346">Collection</text>
+    <line x1="1682" y1="365" x2="1848" y2="365" stroke="#c7ced6"/>
+    <text x="1709" y="393">Upload Workbook</text>
+  </g>
+  <rect x="1884" y="104" width="8" height="560" rx="4" fill="#7d7d7d"/>
+  <text x="257" y="954" class="ui mid">Accelerators</text>
+  <g>
+    <path class="arrow" d="M655 34 C515 22 370 23 180 34"/>
+    <circle class="dot" cx="680" cy="32" r="18"/><text x="680" y="38" text-anchor="middle" class="call">1</text><text x="704" y="38" class="label">Browser and site URL</text>
+    <path class="arrow" d="M102 98 C96 129 90 152 74 186"/>
+    <circle class="dot" cx="106" cy="76" r="18"/><text x="106" y="82" text-anchor="middle" class="call">2</text><text x="132" y="82" class="label">Site navigation</text>
+    <path class="arrow" d="M362 129 C333 136 298 140 254 142"/>
+    <circle class="dot" cx="388" cy="122" r="18"/><text x="388" y="128" text-anchor="middle" class="call">3</text><text x="414" y="128" class="label">Home page</text>
+    <path class="arrow" d="M1516 120 C1514 102 1518 88 1535 72"/>
+    <circle class="dot" cx="1512" cy="145" r="18"/><text x="1512" y="151" text-anchor="middle" class="call">4</text><text x="1537" y="151" class="label">Global search</text>
+    <path class="arrow" d="M1818 116 C1815 91 1824 76 1846 69"/>
+    <circle class="dot" cx="1815" cy="141" r="18"/><text x="1815" y="147" text-anchor="middle" class="call">5</text><text x="1565" y="144" class="label">Help, alerts, profile</text>
+    <path class="arrow" d="M1722 203 C1745 178 1776 156 1816 141"/>
+    <circle class="dot" cx="1704" cy="222" r="18"/><text x="1704" y="228" text-anchor="middle" class="call">6</text><text x="1448" y="228" class="label">New content menu</text>
+    <path class="arrow" d="M1602 340 C1643 320 1675 287 1706 239"/>
+    <circle class="dot" cx="1581" cy="351" r="18"/><text x="1581" y="357" text-anchor="middle" class="call">7</text><text x="1322" y="357" class="label">Create or upload options</text>
+    <path class="arrow" d="M452 214 C386 208 320 207 258 210"/>
+    <circle class="dot" cx="478" cy="214" r="18"/><text x="478" y="220" text-anchor="middle" class="call">8</text><text x="504" y="220" class="label">Recents section</text>
+    <path class="arrow" d="M760 505 C711 462 670 429 622 393"/>
+    <circle class="dot" cx="779" cy="520" r="18"/><text x="779" y="526" text-anchor="middle" class="call">9</text><text x="806" y="526" class="label">Content cards</text>
+    <path class="arrow" d="M1112 494 C1134 483 1148 471 1171 459"/>
+    <circle class="dot" cx="1090" cy="502" r="18"/><text x="1090" y="508" text-anchor="middle" class="call">10</text><text x="828" y="508" class="label">Card actions</text>
+    <path class="arrow" d="M506 585 C438 580 350 578 258 579"/>
+    <circle class="dot" cx="530" cy="586" r="18"/><text x="530" y="592" text-anchor="middle" class="call">11</text><text x="557" y="592" class="label">Recommendations</text>
+    <path class="arrow" d="M1760 604 C1782 595 1801 587 1818 580"/>
+    <circle class="dot" cx="1738" cy="613" r="18"/><text x="1738" y="619" text-anchor="middle" class="call">12</text><text x="1502" y="619" class="label">See All links</text>
+    <path class="arrow" d="M201 470 C153 462 104 461 43 462"/>
+    <circle class="dot" cx="221" cy="476" r="18"/><text x="221" y="482" text-anchor="middle" class="call">13</text><text x="247" y="482" class="label">Browse areas</text>
+  </g>
+</svg>

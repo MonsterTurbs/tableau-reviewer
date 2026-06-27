@@ -1,0 +1,1513 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R 33 0 R 35 0 R 37 0 R 39 0 R 41 0 R 43 0 R 45 0 R 47 0 R 49 0 R 51 0 R 53 0 R 55 0 R 57 0 R 59 0 R 61 0 R 63 0 R 65 0 R 67 0 R 69 0 R] /Count 34 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 5006 >>
+stream
+BT /F2 18 Tf 0.05 0.12 0.20 rg 1 0 0 1 54.00 784.00 Tm (Tagalog Lesson Reviewer: Tableau Full Course) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 750.00 Tm (Source: plain.txt transcript + table of content.txt timestamps) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 731.00 Tm (Welcome sa mas malinaw at mas friendly na reviewer! Ang goal nito ay hindi lang kabisaduhin ang) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 717.00 Tm (Tableau terms, kundi maintindihan mo kung paano nagiging useful dashboard ang raw data. Isipin) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 703.00 Tm (mo ito bilang study buddy: may explanations, examples, warnings, decision guides, at quick) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 689.00 Tm (review notes para hindi nakaka-overwhelm ang 21-hour course. :\)) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 670.00 Tm (Main promise ng reviewer na ito: concept muna, simpleng paliwanag, practical example, common) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 656.00 Tm (mistake, tapos quick takeaway. Kapag nalito ka, bumalik sa section summary at sa cheat sheet sa) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 642.00 Tm (dulo. Kaya mo ito, one chart at a time.) Tj ET
+BT /F2 13 Tf 0.08 0.20 0.32 rg 1 0 0 1 54.00 616.00 Tm (Paano gamitin ang reviewer) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 592.00 Tm (- [SCAN] Basahin muna ang terms at summary kung quick review lang ang kailangan.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 578.00 Tm (- [STUDY] Kapag bago ang topic, basahin ang simple explanation bago ang technical terms.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 564.00 Tm (- [PRACTICE] Bawat concept, subukan mong isipin kung saan ito gagamitin sa sales, finance,) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 550.00 Tm (  HR, operations, o school project.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 536.00 Tm (- [CHECK] Pagkatapos ng section, itanong sa sarili: "Kaya ko ba itong ipaliwanag sa) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 522.00 Tm (  kaibigan in 30 seconds?") Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 508.00 Tm (- [REVISIT] Sundan ang timestamp kung gusto mong bumalik sa video/transcript.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 494.00 Tm (- [QUIZ] Sagutan ang quiz sa dulo kapag tapos ka na. Huwag matakot sa mali; doon kumakapit) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 480.00 Tm (  ang learning. :\)) Tj ET
+BT /F2 13 Tf 0.08 0.20 0.32 rg 1 0 0 1 54.00 454.00 Tm (Study rhythm) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 430.00 Tm (1. Basahin ang concept.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 416.00 Tm (2. Tingnan ang example.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 402.00 Tm (3. Hanapin ang warning o common mistake.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 388.00 Tm (4. I-connect sa isang real dashboard question.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 374.00 Tm (5. I-review ang one-line takeaway.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 355.00 Tm (Mini mindset: Tableau is not just "drag and drop." Tableau is asking good questions, preparing) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 341.00 Tm (the right data, choosing the right chart, and making the answer easy to see.) Tj ET
+BT /F2 13 Tf 0.08 0.20 0.32 rg 1 0 0 1 54.00 315.00 Tm (Icon and emoticon legend) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 291.00 Tm (- [GUIDE] :\) quick gabay bago pumasok sa topic.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 277.00 Tm (- [TERMS] : vocabulary na kailangang tandaan.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 263.00 Tm (- [SIMPLE] :D simple explanation na pang-beginner.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 249.00 Tm (- [EXAMPLE] -> practical sample para mas madaling ma-imagine.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 235.00 Tm (- [DECIDE] ? decision guide kung kailan gagamitin ang concept.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 221.00 Tm (- [WATCH OUT] ! common mistake o warning.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 207.00 Tm (- [MEMORY HOOK] * mabilis tandaan na clue.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 193.00 Tm (- [TAKEAWAY] = pinaka-importanteng lesson ng section.) Tj ET
+BT /F2 18 Tf 0.05 0.12 0.20 rg 1 0 0 1 54.00 170.00 Tm (00:00 - Intro) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 136.00 Tm ([GUIDE] :\) Ang intro ang nagbibigay ng big picture: bakit Tableau, para kanino ang course, at) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 122.00 Tm (paano ka dadalhin mula beginner hanggang project-ready. Huwag muna kabahan sa dami ng topics;) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 108.00 Tm (ang importante sa simula ay makita ang buong mapa ng learning journey.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 89.00 Tm (Ang course ay ginawa para dalhin ang learner mula zero knowledge hanggang kaya nang gumawa ng) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 75.00 Tm (Tableau dashboards. Ang focus ay hindi lang pag-click sa tool, kundi pag-intindi kung paano) Tj ET
+BT /F1 8 Tf 0.35 0.35 0.35 rg
+1 0 0 1 503 28 Tm (Page 1) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 2329 >>
+stream
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 788.00 Tm (gumagana ang data visualization, BI, data modeling, calculations, charts, dashboards, at) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 774.00 Tm (project delivery.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 755.00 Tm (Practical idea: kung beginner ka, huwag mong kabisaduhin lahat ng buttons agad. Mas mahalaga) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 741.00 Tm (munang maintindihan kung bakit kailangan ang chart, anong data ang ginagamit, at paano) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 727.00 Tm (makakatulong ang dashboard sa decision maker.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 708.00 Tm ([TERMS] Important terms:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 694.00 Tm (- Tableau: tool para gumawa ng charts, dashboards, at interactive data stories.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 680.00 Tm (- Dashboard: collection ng charts at controls na nagbibigay ng quick view sa important) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 666.00 Tm (  metrics.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 652.00 Tm (- Visualization: graphical representation ng data tulad ng bar chart, line chart, map, o) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 638.00 Tm (  table.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 624.00 Tm (- BI or Business Intelligence: proseso ng paggamit ng data para makagawa ng better) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 610.00 Tm (  decisions.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 591.00 Tm ([TAKEAWAY] = Summary: Ang course ay practical Tableau training na nakasentro sa concepts,) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 577.00 Tm (hands-on practice, at real project workflow.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 558.00 Tm ([REVIEW] Reviewer notes:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 544.00 Tm (- Hindi sapat ang marunong mag-drag and drop. Kailangan maintindihan ang data.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 530.00 Tm (- Goal ng dashboard: gawing madaling makita ang sagot sa business question.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 516.00 Tm (- Ang best Tableau developer ay marunong mag-isip bilang analyst, designer, at project) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 502.00 Tm (  implementer.) Tj ET
+BT /F1 8 Tf 0.35 0.35 0.35 rg
+1 0 0 1 503 28 Tm (Page 2) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 2809 >>
+stream
+BT /F2 18 Tf 0.05 0.12 0.20 rg 1 0 0 1 54.00 784.00 Tm (03:20 - Tableau Course Structure) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 750.00 Tm ([GUIDE] :\) Dito mo makikita ang roadmap. Parang building construction ito: foundation muna,) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 736.00 Tm (tools next, then structure ng data, saka visuals, dashboard, at final project. Kapag alam mo) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 722.00 Tm (ang order, mas madali mong maintindihan kung bakit nauuna ang data modeling bago dashboard) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 708.00 Tm (design.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 689.00 Tm (Ang course ay may 15 major sections. Nagsisimula sa basics: ano ang BI, data visualization, at) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 675.00 Tm (Tableau. Pagkatapos, tatalakayin ang Tableau products, architecture, environment setup, data) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 661.00 Tm (combining, metadata, organizing data, filtering, parameters, actions, calculations, charts,) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 647.00 Tm (dashboards, at final project.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 628.00 Tm (Simple flow ng learning:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 614.00 Tm (1. Understand data and BI.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 600.00 Tm (2. Understand Tableau ecosystem.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 586.00 Tm (3. Prepare Tableau environment.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 572.00 Tm (4. Build correct data sources.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 558.00 Tm (5. Clean and organize fields.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 544.00 Tm (6. Filter, calculate, and make charts.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 530.00 Tm (7. Combine charts into dashboards.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 516.00 Tm (8. Deliver a project from requirements to final dashboard.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 497.00 Tm ([EXAMPLE] -> Practical example: Kung sales manager ang user, hindi mo agad sisimulan sa kulay) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 483.00 Tm (ng dashboard. Una mong tatanungin: anong tanong ang kailangang sagutin? Total sales? Profit?) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 469.00 Tm (Monthly trend? Top products? From there, pipili ka ng data source, calculations, charts, at) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 455.00 Tm (dashboard layout.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 436.00 Tm ([TAKEAWAY] = Summary: Ang course structure ay parang real Tableau project lifecycle: concept,) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 422.00 Tm (setup, data source, analysis, visualization, dashboard, delivery.) Tj ET
+BT /F1 8 Tf 0.35 0.35 0.35 rg
+1 0 0 1 503 28 Tm (Page 3) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 5604 >>
+stream
+BT /F2 18 Tf 0.05 0.12 0.20 rg 1 0 0 1 54.00 784.00 Tm (08:35 - #1 Section: Tableau Basics) Tj ET
+BT /F2 13 Tf 0.08 0.20 0.32 rg 1 0 0 1 54.00 743.00 Tm (08:37 - Big Data Terms) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 719.00 Tm ([GUIDE] :\) Ang Big Data terms ay parang vocabulary ng data world. Hindi kailangan maging data) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 705.00 Tm (engineer agad, pero kailangan mong maintindihan ang terms dahil madalas silang lalabas sa) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 691.00 Tm (Tableau, BI, at analytics projects.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 672.00 Tm (Sa modern world, halos lahat ng ginagawa natin ay gumagawa ng data: online searches, purchases,) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 658.00 Tm (emails, social media, phones, smart devices, machines, cars, at factories. Kapag sobra na ang) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 644.00 Tm (dami, bilis, at klase ng data, pumapasok ang idea ng Big Data.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 625.00 Tm ([TERMS] Important terms:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 611.00 Tm (- Raw data: hilaw na data. Rows, numbers, text, logs, o files na hindi pa nalilinis at) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 597.00 Tm (  mahirap intindihin.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 583.00 Tm (- Big Data: data na malaki ang volume, mabilis ang dating, at iba-iba ang format.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 569.00 Tm (- 3 V's of Big Data: Volume, Velocity, Variety.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 555.00 Tm (- Volume: dami ng data.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 541.00 Tm (- Velocity: bilis ng generation at processing ng data.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 527.00 Tm (- Variety: iba't ibang uri ng data, tulad ng structured, semi-structured, at unstructured.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 513.00 Tm (- IoT or Internet of Things: mga device na connected sa internet at nagpapadala ng data.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 499.00 Tm (- Data architecture: blueprint kung paano i-store, i-process, at i-access ang data.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 485.00 Tm (- Data engineering: paggawa ng pipelines para kunin, linisin, baguhin, at ilipat ang data.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 471.00 Tm (- ETL: Extract, Transform, Load. Kumuha ng data, ayusin ito, at ilagay sa target storage.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 457.00 Tm (- Data modeling: pag-aayos ng entities/tables at relationships para maintindihan kung paano) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 443.00 Tm (  konektado ang data.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 429.00 Tm (- Data mining: paghahanap ng patterns, trends, at hidden knowledge.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 415.00 Tm (- Machine learning: paggamit ng historical data at algorithms para gumawa ng predictions.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 401.00 Tm (- Data science: combination ng programming, math/statistics, at domain knowledge para) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 387.00 Tm (  kumuha ng insights.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 373.00 Tm (- Data visualization: pag-convert ng raw numbers sa visuals para mas madaling maintindihan.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 354.00 Tm ([SIMPLE] :D Simple explanation: Ang raw data ay parang crude oil. May value siya, pero hindi pa) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 340.00 Tm (agad magagamit. Kailangan munang linisin, ayusin, i-model, i-analyze, at ipakita sa paraan na) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 326.00 Tm (madaling maintindihan.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 307.00 Tm ([EXAMPLE] -> Practical example: May online store ka. Raw data mo ay bawat order, click, product) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 293.00 Tm (view, customer location, at payment record. Hindi mo agad malalaman kung aling product ang) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 279.00 Tm (patok hangga't hindi mo ito nililinis, pinagsasama, at ginagawang chart.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 260.00 Tm ([TAKEAWAY] = Summary: Big Data is not just "maraming data." Ito ay data na kailangang i-handle) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 246.00 Tm (nang maayos dahil malaki, mabilis, at iba-iba ang format.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 227.00 Tm ([REVIEW] Reviewer notes:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 213.00 Tm (- Structured data: tables, rows, columns.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 199.00 Tm (- Semi-structured data: XML, JSON, server logs.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 185.00 Tm (- Unstructured data: videos, images, audio, free text.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 171.00 Tm (- Data becomes valuable only when converted into insight.) Tj ET
+BT /F2 13 Tf 0.08 0.20 0.32 rg 1 0 0 1 54.00 145.00 Tm (16:54 - What is Business Intelligence \(BI\)) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 121.00 Tm ([GUIDE] :\) BI ang bridge mula raw data papunta sa decision. Kapag may tanong ang business tulad) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 107.00 Tm (ng 'Bakit bumaba ang sales?' o 'Aling branch ang kailangan ng support?', BI ang proseso para) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 93.00 Tm (gawing malinaw ang sagot.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 74.00 Tm (Business Intelligence or BI ay proseso ng pagkuha ng raw data, pag-analyze nito, at pag-present) Tj ET
+BT /F1 8 Tf 0.35 0.35 0.35 rg
+1 0 0 1 503 28 Tm (Page 4) Tj ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 5636 >>
+stream
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 788.00 Tm (ng result para makatulong sa business decisions. Sa transcript, may example ng shops sa iba't) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 774.00 Tm (ibang cities na may data tungkol sa sales, inventory, products, staff cost, at iba pa. Ang) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 760.00 Tm (managers ay may tanong tulad ng "What happened?" at "What will happen?") Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 741.00 Tm ([TERMS] Important terms:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 727.00 Tm (- Decision makers: managers, finance, HR, operations, o leaders na kailangang magdesisyon.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 713.00 Tm (- Data analyst: naglilinis, nagko-connect, at nag-aaggregate ng data para masagot ang) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 699.00 Tm (  business questions.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 685.00 Tm (- Data scientist: gumagamit ng mining, machine learning, at models para gumawa ng) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 671.00 Tm (  predictions o discover unknown insights.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 657.00 Tm (- BI: bridge sa pagitan ng raw data at business decisions.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 638.00 Tm ([SIMPLE] :D Simple explanation: Ang BI ay parang dashboard ng kotse. Hindi mo tinitingnan ang) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 624.00 Tm (raw engine signals. Tinitingnan mo ang speed, fuel, warning lights, at direction. Ganito rin sa) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 610.00 Tm (business: hindi raw tables ang kailangan ng manager, kundi malinaw na indicators.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 591.00 Tm ([EXAMPLE] -> Practical example: Instead na spreadsheet na may libo-libong sales rows, gumawa ng) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 577.00 Tm (dashboard na may total sales, profit, monthly trend, top products, at filters by city.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 558.00 Tm ([TAKEAWAY] = Summary: BI turns data into understandable information so people can decide faster) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 544.00 Tm (and smarter.) Tj ET
+BT /F2 13 Tf 0.08 0.20 0.32 rg 1 0 0 1 54.00 518.00 Tm (19:34 - What is Data Visualization) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 494.00 Tm ([GUIDE] :\) Data visualization ang dahilan kung bakit mas mabilis nating nakikita ang story sa) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 480.00 Tm (data. Ang trabaho ng chart ay hindi magpahanga lang; trabaho nitong gawing obvious ang pattern,) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 466.00 Tm (trend, comparison, o problem.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 447.00 Tm (Data visualization ay pag-convert ng numbers at raw data into charts, graphs, maps, at other) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 433.00 Tm (visuals. Malakas ito dahil mas mabilis mag-process ang tao ng visual information kaysa plain) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 419.00 Tm (text o spreadsheet.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 400.00 Tm ([TERMS] Important terms:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 386.00 Tm (- Data viz or data visualization: paggamit ng graphical elements para ipakita ang data.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 372.00 Tm (- Storytelling: pagbuo ng malinaw na narrative mula sa data.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 358.00 Tm (- Pattern: paulit-ulit o meaningful na behavior sa data.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 344.00 Tm (- Trend: direction over time, tulad ng pataas o pababang sales.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 325.00 Tm ([SIMPLE] :D Simple explanation: Kapag puro numbers ang tinitingnan mo, mahirap makita kung ano) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 311.00 Tm (ang nangyayari. Kapag ginawang chart, biglang nakikita ang mataas, mababa, outlier, at pattern.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 292.00 Tm ([EXAMPLE] -> Practical example: Kung may monthly sales table, mahirap makita agad kung kailan) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 278.00 Tm (bumagsak ang sales. Sa line chart, makikita mo agad kung anong buwan nagkaroon ng drop.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 259.00 Tm ([TAKEAWAY] = Summary: Data visualization makes complex data easier to read, remember, and act) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 245.00 Tm (on.) Tj ET
+BT /F2 13 Tf 0.08 0.20 0.32 rg 1 0 0 1 54.00 219.00 Tm (22:50 - Excel vs BI-Tools) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 195.00 Tm ([GUIDE] :\) Excel is not the enemy. Useful siya for quick analysis. Pero kapag kailangan ng) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 181.00 Tm (shared, secure, refreshed, at interactive reporting, doon pumapasok ang Tableau at ibang BI) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 167.00 Tm (tools.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 148.00 Tm (Excel is useful and familiar, pero kapag lumalaki ang data at organization, lumalabas ang) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 134.00 Tm (limitations. Modern BI tools like Tableau and Power BI are better for automation, large data,) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 120.00 Tm (security, governance, sharing, at interactive dashboards.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 101.00 Tm ([COMPARE] Key comparison:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 87.00 Tm (- Excel: madalas manual export/import, maraming file versions, limited capacity, harder) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 73.00 Tm (  security.) Tj ET
+BT /F1 8 Tf 0.35 0.35 0.35 rg
+1 0 0 1 503 28 Tm (Page 5) Tj ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 5404 >>
+stream
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 788.00 Tm (- Tableau/BI tools: direct connection sa sources, scheduled refresh, centralized sharing,) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 774.00 Tm (  role-based access, interactive dashboards.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 755.00 Tm ([TERMS] Important terms:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 741.00 Tm (- Automation: automatic refresh o update ng data/report.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 727.00 Tm (- Capacity: kaya bang mag-handle ng malaking data volume.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 713.00 Tm (- Security: control kung sino ang makakakita ng data.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 699.00 Tm (- Row-level security or RLS: bawat user ay nakakakita lang ng rows na allowed sa role niya.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 685.00 Tm (- Single source of truth: isang trusted report/dashboard imbes na maraming conflicting) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 671.00 Tm (  spreadsheet versions.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 652.00 Tm ([EXAMPLE] -> Practical example: Sa Excel, may "report_final.xlsx", "report_final_v2.xlsx", at) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 638.00 Tm ("report_final_REAL.xlsx". Sa Tableau Server/Cloud, isang dashboard lang ang published at) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 624.00 Tm (refreshed automatically.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 605.00 Tm ([TAKEAWAY] = Summary: Excel is great for small/manual work. BI tools are better for scalable,) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 591.00 Tm (secure, automated, and shared analytics.) Tj ET
+BT /F2 13 Tf 0.08 0.20 0.32 rg 1 0 0 1 54.00 565.00 Tm (31:28 - Top 3 BI-Tools) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 541.00 Tm (Karaniwang top BI tools sa market ay Tableau, Power BI, at Qlik. Lahat ay ginagamit para gumawa) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 527.00 Tm (ng business dashboards at visual analysis, pero may kanya-kanyang strengths, licensing,) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 513.00 Tm (ecosystem, at user experience.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 494.00 Tm ([REVIEW] Reviewer notes:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 480.00 Tm (- Tableau: strong sa visual analytics at interactive exploration.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 466.00 Tm (- Power BI: strong sa Microsoft ecosystem at enterprise adoption.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 452.00 Tm (- Qlik: known for associative data model and exploration.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 433.00 Tm ([TAKEAWAY] = Summary: Hindi tool name ang pinakamahalaga. Ang mahalaga ay kung kaya nitong) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 419.00 Tm (sagutin ang business requirement nang reliable at understandable.) Tj ET
+BT /F2 13 Tf 0.08 0.20 0.32 rg 1 0 0 1 54.00 393.00 Tm (32:22 - What is Tableau) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 369.00 Tm ([GUIDE] :\) Tableau ay tool para magtanong sa data visually. Instead na puro formulas agad,) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 355.00 Tm (gumagamit ka ng fields, shelves, marks, filters, and dashboards para mabilis makita ang sagot.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 336.00 Tm (Tableau ay visual analytics platform na ginagamit para kumonekta sa data, gumawa ng charts,) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 322.00 Tm (dashboards, stories, at mag-share ng insights. Ang target users nito ay hindi lang programmers.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 308.00 Tm (Puwede rin ang analysts at business users dahil drag-and-drop ang core interaction.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 289.00 Tm ([TERMS] Important terms:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 275.00 Tm (- Drag and drop analysis: pagbuo ng view sa pamamagitan ng paglagay ng fields sa rows,) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 261.00 Tm (  columns, marks, filters, at iba pa.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 247.00 Tm (- Workbook: Tableau file na may data source, worksheets, dashboards, at stories.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 233.00 Tm (- Worksheet: isang single visualization.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 219.00 Tm (- Dashboard: combination ng multiple worksheets and controls.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 205.00 Tm (- Story: sequence ng sheets/dashboards para magkwento ng analysis.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 186.00 Tm ([TAKEAWAY] = Summary: Tableau helps users explore data visually and communicate insights) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 172.00 Tm (through dashboards.) Tj ET
+BT /F2 13 Tf 0.08 0.20 0.32 rg 1 0 0 1 54.00 146.00 Tm (34:50 - Why Tableau) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 122.00 Tm ([GUIDE] :\) Malakas ang Tableau kapag exploratory ang work: gusto mong mag-click, mag-filter,) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 108.00 Tm (mag-drill down, at maghanap ng insight. Para siyang microscope para sa business data.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 89.00 Tm (Malakas ang Tableau dahil visual, interactive, mabilis sa data exploration, may maraming) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 75.00 Tm (charting capability, may malaking community, at may ecosystem ng products para development,) Tj ET
+BT /F1 8 Tf 0.35 0.35 0.35 rg
+1 0 0 1 503 28 Tm (Page 6) Tj ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> /Contents 16 0 R >>
+endobj
+16 0 obj
+<< /Length 1455 >>
+stream
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 788.00 Tm (sharing, hosting, at viewing.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 769.00 Tm ([WHY IT MATTERS] Main reasons:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 755.00 Tm (- Madaling gumawa ng charts with drag and drop.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 741.00 Tm (- Interactive dashboards with filters, parameters, and actions.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 727.00 Tm (- Handles large data through live/extract connections.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 713.00 Tm (- Strong community and learning resources.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 699.00 Tm (- Useful across departments: sales, finance, HR, operations, logistics, marketing.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 680.00 Tm ([EXAMPLE] -> Practical example: Gumawa ka ng dashboard with sales forecast and product) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 666.00 Tm (clusters. Kapag nag-click ang user sa isang segment, magbabago ang related charts. Ito ang) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 652.00 Tm (interactive analysis na mahirap gawin sa static spreadsheet.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 633.00 Tm ([TAKEAWAY] = Summary: Tableau is powerful because it combines visual exploration,) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 619.00 Tm (interactivity, scalability, and shareability.) Tj ET
+BT /F1 8 Tf 0.35 0.35 0.35 rg
+1 0 0 1 503 28 Tm (Page 7) Tj ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> /Contents 18 0 R >>
+endobj
+18 0 obj
+<< /Length 4828 >>
+stream
+BT /F2 18 Tf 0.05 0.12 0.20 rg 1 0 0 1 54.00 784.00 Tm (39:54 - #2 Chapter: Tableau Products) Tj ET
+BT /F2 13 Tf 0.08 0.20 0.32 rg 1 0 0 1 54.00 743.00 Tm (39:54 - Tableau Development Products) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 719.00 Tm (May dalawang major categories ng Tableau products: development tools at sharing tools.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 705.00 Tm (Development tools ang ginagamit para gumawa ng data sources, charts, dashboards, at data) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 691.00 Tm (preparation.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 672.00 Tm ([TOOLS] Development products:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 658.00 Tm (- Tableau Desktop: paid full authoring tool. Para sa professional Tableau development.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 644.00 Tm (- Tableau Public Desktop: free authoring tool, pero public ang publishing at may) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 630.00 Tm (  limitations.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 616.00 Tm (- Tableau Prep: tool para linisin, i-transform, at ihanda ang data bago gamitin sa) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 602.00 Tm (  analysis.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 583.00 Tm ([DECIDE] ? Decision guide:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 569.00 Tm (- Kung data preparation/cleaning ang main task, use Tableau Prep.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 555.00 Tm (- Kung kailangan ng private/professional work, server/database/cloud connections, use) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 541.00 Tm (  Tableau Desktop.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 527.00 Tm (- Kung learning or public portfolio lang at okay na public ang data, use Tableau Public.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 508.00 Tm ([TAKEAWAY] = Summary: Piliin ang development product base sa privacy, data source type, data) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 494.00 Tm (size, at purpose.) Tj ET
+BT /F2 13 Tf 0.08 0.20 0.32 rg 1 0 0 1 54.00 468.00 Tm (43:36 - Tableau Sharing Process) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 444.00 Tm ([FLOW] Sharing process:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 430.00 Tm (1. Gumawa ng data source at visuals sa Tableau Desktop/Public.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 416.00 Tm (2. Gumawa ng worksheets, dashboards, or stories.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 402.00 Tm (3. I-publish o i-share gamit ang Tableau Server, Tableau Cloud, Tableau Public, Tableau) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 388.00 Tm (Reader, or Tableau Mobile.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 369.00 Tm ([TERMS] Important terms:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 355.00 Tm (- Developer/Creator: gumagawa ng workbook/dashboard.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 341.00 Tm (- Consumer/Viewer: tumitingin at nakikipag-interact sa dashboard.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 327.00 Tm (- Publish: pag-upload ng workbook/dashboard sa sharing platform.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 313.00 Tm (- Collaborate: sabay-sabay na access, comments, sharing, permissions, refresh, at) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 299.00 Tm (  governance.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 280.00 Tm ([EXAMPLE] -> Practical example: Analyst builds sales dashboard in Tableau Desktop, publishes to) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 266.00 Tm (Tableau Server, then managers open it in browser or Tableau Mobile.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 247.00 Tm ([TAKEAWAY] = Summary: Tableau workflow is build, publish, consume, and manage.) Tj ET
+BT /F2 13 Tf 0.08 0.20 0.32 rg 1 0 0 1 54.00 221.00 Tm (54:26 - Tableau Hosting: On-Prem, IaaS, SaaS) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 197.00 Tm (May tatlong common hosting models:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 183.00 Tm (- On-premises: ikaw/organization ang nagma-manage ng hardware, software, security, updates,) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 169.00 Tm (  and operations.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 155.00 Tm (- IaaS or Infrastructure as a Service: cloud provider ang may hardware, pero ikaw pa rin) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 141.00 Tm (  ang magse-setup/manage ng Tableau Server software.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 127.00 Tm (- SaaS or Software as a Service: Tableau Cloud. Provider ang nagma-manage ng infrastructure) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 113.00 Tm (  and software.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 94.00 Tm ([TERMS] Important terms:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 80.00 Tm (- Infrastructure: servers, storage, networking, operating systems.) Tj ET
+BT /F1 8 Tf 0.35 0.35 0.35 rg
+1 0 0 1 503 28 Tm (Page 8) Tj ET
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> /Contents 20 0 R >>
+endobj
+20 0 obj
+<< /Length 2813 >>
+stream
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 788.00 Tm (- Patching: updating software/security fixes.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 774.00 Tm (- Scalability: ability to handle more users/data.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 760.00 Tm (- Robustness: stable and reliable operation.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 741.00 Tm ([DECIDE] ? Decision guide:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 727.00 Tm (- Need full control and strict internal hosting? On-prem.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 713.00 Tm (- Want cloud hardware but still manage server software? IaaS.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 699.00 Tm (- Want less admin work and managed platform? SaaS/Tableau Cloud.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 680.00 Tm ([TAKEAWAY] = Summary: Hosting choice is a tradeoff between control, responsibility, cost,) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 666.00 Tm (security, and maintenance effort.) Tj ET
+BT /F2 13 Tf 0.08 0.20 0.32 rg 1 0 0 1 54.00 640.00 Tm (1:00:24 - Tableau Sharing Products) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 616.00 Tm ([TOOLS] Sharing products:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 602.00 Tm (- Tableau Server: private enterprise platform installed/managed by organization.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 588.00 Tm (- Tableau Cloud: hosted SaaS platform managed by Tableau.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 574.00 Tm (- Tableau Public: public platform for sharing visualizations to the world.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 560.00 Tm (- Tableau Reader: free desktop viewer for packaged workbooks.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 546.00 Tm (- Tableau Mobile: mobile app for viewing/interacting with Server or Cloud dashboards.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 527.00 Tm ([DECIDE] ? Decision guide:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 513.00 Tm (- Public data and no strict refresh/privacy? Tableau Public.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 499.00 Tm (- Private organization sharing and you manage infrastructure? Tableau Server.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 485.00 Tm (- Private organization sharing but prefer managed hosting? Tableau Cloud.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 471.00 Tm (- Send packaged file directly to someone? Tableau Reader, but no automatic refresh.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 457.00 Tm (- Need phone/tablet access? Tableau Mobile with Server/Cloud.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 438.00 Tm ([TAKEAWAY] = Summary: Sharing product depends on audience, privacy, refresh needs, and) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 424.00 Tm (management responsibility.) Tj ET
+BT /F1 8 Tf 0.35 0.35 0.35 rg
+1 0 0 1 503 28 Tm (Page 9) Tj ET
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> /Contents 22 0 R >>
+endobj
+22 0 obj
+<< /Length 4967 >>
+stream
+BT /F2 18 Tf 0.05 0.12 0.20 rg 1 0 0 1 54.00 784.00 Tm (1:12:03 - #3 Section: Tableau Architecture) Tj ET
+BT /F2 13 Tf 0.08 0.20 0.32 rg 1 0 0 1 54.00 743.00 Tm (1:12:46 - Live vs Extract) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 719.00 Tm ([GUIDE] :\) Isa ito sa pinaka-practical na decisions sa Tableau. Freshness ba ang priority, o) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 705.00 Tm (speed and stability? Kapag mali ang choice, puwedeng mabagal ang dashboard o outdated ang) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 691.00 Tm (numbers.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 672.00 Tm (Kapag connected ang Tableau sa data, may dalawang main connection types:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 658.00 Tm (- Live connection: Tableau queries the source directly. Mas fresh ang data, pero) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 644.00 Tm (  performance depends sa source/database/network.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 630.00 Tm (- Extract connection: kinokopya ang snapshot/subset ng data into Tableau extract. Mas) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 616.00 Tm (  mabilis kadalasan, pero kailangan i-refresh para maging updated.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 597.00 Tm ([TERMS] Important terms:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 583.00 Tm (- Data freshness: gaano ka-updated ang data.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 569.00 Tm (- Performance: bilis ng dashboard.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 555.00 Tm (- Extract: optimized copy ng data used by Tableau.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 536.00 Tm ([DECIDE] ? Decision guide:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 522.00 Tm (- Need real-time or near real-time data? Live.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 508.00 Tm (- Need faster dashboard and okay ang scheduled refresh? Extract.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 494.00 Tm (- If source is slow but data does not need instant freshness, extract is usually practical.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 475.00 Tm ([TAKEAWAY] = Summary: Live favors freshness. Extract favors performance and portability.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 456.00 Tm ([MEMORY HOOK] * Live = laging tanong sa source. Extract = may sariling optimized copy si) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 442.00 Tm (Tableau.) Tj ET
+BT /F2 13 Tf 0.08 0.20 0.32 rg 1 0 0 1 54.00 416.00 Tm (1:14:48 - Tableau File Types) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 392.00 Tm ([GUIDE] :\) File types matter kapag magsi-share ka ng workbook. Maraming beginner ang nalilito) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 378.00 Tm (kung bakit gumagana sa computer nila pero hindi sa iba. Usually, dahil data/assets are not) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 364.00 Tm (packaged correctly.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 345.00 Tm (Tableau file types depend on whether they contain workbook, data source, extract, or packaged) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 331.00 Tm (assets.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 312.00 Tm ([TYPES] Important file types:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 298.00 Tm (- .twb: Tableau Workbook. Contains workbook metadata, not the actual local data files.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 284.00 Tm (- .twbx: Packaged Workbook. Contains workbook plus packaged data/assets.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 270.00 Tm (- .tds: Tableau Data Source. Contains data source connection metadata.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 256.00 Tm (- .tdsx: Packaged Data Source. Contains data source plus extract/local data assets.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 242.00 Tm (- .hyper: Tableau extract data file.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 223.00 Tm ([SIMPLE] :D Simple explanation: .twb is like recipe instructions; .twbx is recipe plus) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 209.00 Tm (ingredients packed together.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 190.00 Tm ([TAKEAWAY] = Summary: Use packaged files when sending work to someone who needs the data) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 176.00 Tm (included.) Tj ET
+BT /F2 13 Tf 0.08 0.20 0.32 rg 1 0 0 1 54.00 150.00 Tm (1:19:16 - Tableau Desktop Architecture) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 126.00 Tm (Tableau Desktop has layers:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 112.00 Tm (- Data source layer: connect to data, define relationships/joins/unions, set metadata.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 98.00 Tm (- Worksheet layer: build one chart or visual.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 84.00 Tm (- Dashboard layer: combine worksheets into one interactive screen.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 70.00 Tm (- Story layer: arrange sheets/dashboards in sequence to explain a narrative.) Tj ET
+BT /F1 8 Tf 0.35 0.35 0.35 rg
+1 0 0 1 503 28 Tm (Page 10) Tj ET
+endstream
+endobj
+23 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> /Contents 24 0 R >>
+endobj
+24 0 obj
+<< /Length 3316 >>
+stream
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 783.00 Tm ([TERMS] Important terms:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 769.00 Tm (- Data pane: list of fields in Tableau.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 755.00 Tm (- Marks card: controls color, size, label, detail, tooltip, and mark type.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 741.00 Tm (- Rows/Columns shelves: where fields define the structure of the view.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 727.00 Tm (- Analytics pane: tools like reference lines, trend lines, forecasts.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 708.00 Tm ([TAKEAWAY] = Summary: Desktop architecture moves from data connection to single visual to) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 694.00 Tm (dashboard to story.) Tj ET
+BT /F2 13 Tf 0.08 0.20 0.32 rg 1 0 0 1 54.00 668.00 Tm (1:26:39 - Tableau Server Architecture) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 644.00 Tm ([GUIDE] :\) Hindi mo kailangang kabisaduhin lahat ng server components, pero helpful malaman na) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 630.00 Tm (maraming parts ang nagtutulungan para maging secure, fast, at shareable ang dashboards.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 611.00 Tm (Tableau Server has components that handle access, rendering, queries, metadata, extracts,) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 597.00 Tm (caching, and background jobs.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 578.00 Tm ([PARTS] Important components:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 564.00 Tm (- Gateway: first entry point for web requests.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 550.00 Tm (- Application Server: handles login, permissions, and general web application logic.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 536.00 Tm (- VizQL Server: converts user actions into queries and renders visual output.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 522.00 Tm (- Data Server: manages data connections, metadata, and security filtering.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 508.00 Tm (- Repository: stores metadata like users, permissions, workbooks, schedules, and server) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 494.00 Tm (  info.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 480.00 Tm (- File Store: stores extracts and files used by server.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 466.00 Tm (- Cache Server: stores frequently used results/assets to improve speed.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 452.00 Tm (- Backgrounder: runs scheduled jobs like extract refreshes and subscriptions.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 433.00 Tm ([FLOW] Example flow: User opens a sales dashboard in browser. Gateway receives request,) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 419.00 Tm (Application Server checks login, VizQL builds the view, Data Server gets needed data,) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 405.00 Tm (Repository provides metadata/permissions, then the dashboard is returned to the browser.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 386.00 Tm ([TAKEAWAY] = Summary: Server architecture exists so many users can securely view, refresh, and) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 372.00 Tm (interact with dashboards.) Tj ET
+BT /F1 8 Tf 0.35 0.35 0.35 rg
+1 0 0 1 503 28 Tm (Page 11) Tj ET
+endstream
+endobj
+25 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> /Contents 26 0 R >>
+endobj
+26 0 obj
+<< /Length 4550 >>
+stream
+BT /F2 18 Tf 0.05 0.12 0.20 rg 1 0 0 1 54.00 784.00 Tm (1:48:37 - #4 Section: Prepare the Environment) Tj ET
+BT /F2 13 Tf 0.08 0.20 0.32 rg 1 0 0 1 54.00 743.00 Tm (1:48:44 - Download & Install Tableau Public) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 719.00 Tm (For learning, Tableau Public is enough because it is free and includes many authoring features.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 705.00 Tm (Main limitation: published work is public, so do not use confidential data.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 686.00 Tm ([REVIEW] Reviewer notes:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 672.00 Tm (- Install Tableau Public Desktop.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 658.00 Tm (- Use it for practice and portfolio.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 644.00 Tm (- Never upload private company/customer data to public platforms.) Tj ET
+BT /F2 13 Tf 0.08 0.20 0.32 rg 1 0 0 1 54.00 618.00 Tm (1:50:06 - Create Tableau Public Account) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 594.00 Tm (Create account to publish visualizations online. This lets you store and share public) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 580.00 Tm (dashboards.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 561.00 Tm ([TAKEAWAY] = Summary: Tableau Public account is useful for practice, sharing, and portfolio) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 547.00 Tm (building.) Tj ET
+BT /F2 13 Tf 0.08 0.20 0.32 rg 1 0 0 1 54.00 521.00 Tm (1:51:26 - Get Training Datasets) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 497.00 Tm (Training datasets usually include tables like Orders, Customers, Products, and Locations. These) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 483.00 Tm (are connected using keys like Customer ID and Product ID.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 464.00 Tm ([TERMS] Important terms:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 450.00 Tm (- Key field: common field used to connect tables.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 436.00 Tm (- Orders table: often a fact table with transactions.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 422.00 Tm (- Customers/Products tables: often dimension tables with descriptive info.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 408.00 Tm (- Locale issue: decimal separator may differ by region, e.g. comma vs dot.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 389.00 Tm ([EXAMPLE] -> Practical example: Orders has Product ID. Products table also has Product ID. That) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 375.00 Tm (common key lets Tableau relate the transaction to product name/category.) Tj ET
+BT /F2 13 Tf 0.08 0.20 0.32 rg 1 0 0 1 54.00 349.00 Tm (1:57:18 - Publish First Viz) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 325.00 Tm (Publishing means uploading the workbook/dashboard to Tableau Public/Server/Cloud so others can) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 311.00 Tm (view it.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 292.00 Tm ([REVIEW] Reviewer notes:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 278.00 Tm (- Check data privacy before publishing.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 264.00 Tm (- Test the visualization after publishing.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 250.00 Tm (- Make sure filters and interactions still work.) Tj ET
+BT /F2 13 Tf 0.08 0.20 0.32 rg 1 0 0 1 54.00 224.00 Tm (1:59:33 - Tour into the Tableau Interface) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 200.00 Tm ([MAP] Main parts of Tableau interface:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 186.00 Tm (- Start page: open/connect to data.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 172.00 Tm (- Data source page: build data model and inspect fields.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 158.00 Tm (- Worksheet: create one visualization.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 144.00 Tm (- Dashboard: combine worksheets.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 130.00 Tm (- Data pane: fields categorized as dimensions/measures.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 116.00 Tm (- Marks card: controls appearance and detail.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 102.00 Tm (- Show Me: suggests chart types based on selected fields.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 88.00 Tm (- Status bar: shows marks, rows, columns, and basic view info.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 69.00 Tm ([TAKEAWAY] = Summary: Learn where things are: data source page for data, worksheet for charts,) Tj ET
+BT /F1 8 Tf 0.35 0.35 0.35 rg
+1 0 0 1 503 28 Tm (Page 12) Tj ET
+endstream
+endobj
+27 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> /Contents 28 0 R >>
+endobj
+28 0 obj
+<< /Length 4999 >>
+stream
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 788.00 Tm (dashboard for layout.) Tj ET
+BT /F2 18 Tf 0.05 0.12 0.20 rg 1 0 0 1 54.00 765.00 Tm (2:13:01 - #5 Section: Combining Data) Tj ET
+BT /F2 13 Tf 0.08 0.20 0.32 rg 1 0 0 1 54.00 724.00 Tm (2:13:51 - Basics Data Modeling) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 700.00 Tm ([GUIDE] :\) Data modeling ang backbone ng dashboard. Kapag mali ang relationship ng tables,) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 686.00 Tm (kahit maganda ang chart, mali pa rin ang numbers. Pretty dashboard plus wrong data equals) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 672.00 Tm (dangerous dashboard.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 653.00 Tm (Data modeling is organizing data into tables/entities and defining relationships between them.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 639.00 Tm (Sa BI, magandang data model ang foundation ng reliable dashboard.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 620.00 Tm ([TERMS] Important terms:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 606.00 Tm (- Entity: object or concept represented by a table, e.g. Customer, Product, Order.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 592.00 Tm (- Fact table: table with events/transactions and numeric measures, e.g. Orders.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 578.00 Tm (- Dimension table: descriptive table, e.g. Customers, Products.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 564.00 Tm (- Star schema: one fact table in center connected to dimension tables.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 550.00 Tm (- Snowflake schema: dimension tables are further normalized into related tables.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 536.00 Tm (- Cardinality: relationship count, e.g. one-to-many, many-to-one.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 517.00 Tm ([EXAMPLE] -> Practical example: Orders is fact table. Customers and Products are dimensions.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 503.00 Tm (Orders connect to Customers via Customer ID and to Products via Product ID.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 484.00 Tm ([TAKEAWAY] = Summary: Good data modeling prevents wrong numbers and makes analysis easier.) Tj ET
+BT /F2 13 Tf 0.08 0.20 0.32 rg 1 0 0 1 54.00 458.00 Tm (2:19:57 - Logical & Physical Layers) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 434.00 Tm ([GUIDE] :\) Ito ang isa sa concepts na dapat dahan-dahan. Logical layer is about meaning and) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 420.00 Tm (relationships; physical layer is about actual merging of tables. Magkaiba ang effect nila sa) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 406.00 Tm (results.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 387.00 Tm (Tableau data model has two layers:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 373.00 Tm (- Logical layer: default layer where tables are connected using relationships. Tables stay) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 359.00 Tm (  separate.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 345.00 Tm (- Physical layer: inside a logical table, where you can use joins and unions. Tables can be) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 331.00 Tm (  merged.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 312.00 Tm ([TERMS] Important terms:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 298.00 Tm (- Relationship: flexible link between logical tables.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 284.00 Tm (- Join: physically combines columns from tables.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 270.00 Tm (- Union: stacks rows from tables with same structure.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 256.00 Tm (- Data blending: combines data sources at visualization level.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 237.00 Tm ([TAKEAWAY] = Summary: Use logical layer for relationships. Go to physical layer when you need) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 223.00 Tm (joins/unions inside one logical table.) Tj ET
+BT /F2 13 Tf 0.08 0.20 0.32 rg 1 0 0 1 54.00 197.00 Tm (2:25:07 - Joins) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 173.00 Tm ([GUIDE] :\) Joins are powerful, pero kailangan maingat. Isipin mo silang zipper ng dalawang) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 159.00 Tm (tables: kapag mali ang ngipin na pinagdugtong, puwedeng may mawala o madoble.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 140.00 Tm (Joins combine tables side by side using a common key. [TYPES] Common join types:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 126.00 Tm (- Inner join: keeps only matching rows from both tables.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 112.00 Tm (- Left join: keeps all rows from left table and matching rows from right.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 98.00 Tm (- Right join: keeps all rows from right table and matching rows from left.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 84.00 Tm (- Full outer join: keeps all rows from both tables.) Tj ET
+BT /F1 8 Tf 0.35 0.35 0.35 rg
+1 0 0 1 503 28 Tm (Page 13) Tj ET
+endstream
+endobj
+29 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> /Contents 30 0 R >>
+endobj
+30 0 obj
+<< /Length 4869 >>
+stream
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 788.00 Tm ([WATCH OUT] ! Common risk: Joins can duplicate rows or lose rows if join type/key is wrong.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 774.00 Tm (This can make measures like Sales, Profit, or Average incorrect.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 755.00 Tm ([EXAMPLE] -> Practical example: If customers without orders are removed by an inner join, your) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 741.00 Tm (customer count becomes wrong.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 722.00 Tm ([TAKEAWAY] = Summary: Joins are useful but static and can change row-level data. Validate) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 708.00 Tm (counts after joining.) Tj ET
+BT /F2 13 Tf 0.08 0.20 0.32 rg 1 0 0 1 54.00 682.00 Tm (2:33:59 - Union) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 658.00 Tm (Union stacks tables vertically. Use it when tables have the same columns/structure.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 639.00 Tm ([REQUIREMENTS] Requirements:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 625.00 Tm (- Same or compatible fields.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 611.00 Tm (- Usually same business meaning.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 597.00 Tm (- Best for appending similar files/tables, e.g. Orders_2022 + Orders_2023.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 578.00 Tm ([EXAMPLE] -> Practical example: If you have one CSV per month with same columns, union them) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 564.00 Tm (into one Orders table.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 545.00 Tm ([TAKEAWAY] = Summary: Join adds columns. Union adds rows.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 526.00 Tm ([MEMORY HOOK] * Join = side by side. Union = patong sa ilalim.) Tj ET
+BT /F2 13 Tf 0.08 0.20 0.32 rg 1 0 0 1 54.00 500.00 Tm (2:40:54 - Relationships) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 476.00 Tm ([GUIDE] :\) Relationships are usually the friendlier default in modern Tableau. Hinahayaan) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 462.00 Tm (nitong mag-query si Tableau depende sa fields na ginamit mo, kaya mas flexible sa maraming) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 448.00 Tm (analysis.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 429.00 Tm (Relationships are Tableau's recommended default method for connecting logical tables. They keep) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 415.00 Tm (tables separate and let Tableau decide how to query based on fields used in the view.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 396.00 Tm ([SETTINGS] Settings to understand:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 382.00 Tm (- Relationship key: common field, e.g. Customer ID.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 368.00 Tm (- Cardinality: one/many on each side.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 354.00 Tm (- Referential integrity: whether records always match or only some match.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 335.00 Tm (Best practice from transcript: if unsure, many-to-many is safer for correctness. For better) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 321.00 Tm (performance, configure correct one/many cardinality when you are sure.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 302.00 Tm ([TAKEAWAY] = Summary: Relationships are flexible and reduce risk of duplicated/lost data) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 288.00 Tm (compared with joins.) Tj ET
+BT /F2 13 Tf 0.08 0.20 0.32 rg 1 0 0 1 54.00 262.00 Tm (2:57:28 - Data Blending) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 238.00 Tm (Data blending combines data from different data sources at the visualization level. One source) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 224.00 Tm (becomes primary, another secondary.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 205.00 Tm ([TERMS] Important terms:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 191.00 Tm (- Primary data source: first source used in the worksheet, often blue check/indicator.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 177.00 Tm (- Secondary data source: supporting source used after primary, often orange indicator.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 163.00 Tm (- Blend relationship: fields used to connect the sources.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 144.00 Tm ([WHEN TO USE] When to use:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 130.00 Tm (- Tables are in different data sources and cannot be joined/related normally.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 116.00 Tm (- You need worksheet-level combination.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 97.00 Tm ([LIMIT] Limitation: It is less flexible than relationships in a single data source and can be) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 83.00 Tm (harder to manage.) Tj ET
+BT /F1 8 Tf 0.35 0.35 0.35 rg
+1 0 0 1 503 28 Tm (Page 14) Tj ET
+endstream
+endobj
+31 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> /Contents 32 0 R >>
+endobj
+32 0 obj
+<< /Length 1911 >>
+stream
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 788.00 Tm ([TAKEAWAY] = Summary: Use data blending when combining across separate data sources at) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 774.00 Tm (worksheet level.) Tj ET
+BT /F2 13 Tf 0.08 0.20 0.32 rg 1 0 0 1 54.00 748.00 Tm (3:15:57 - [TAKEAWAY] Summary: Combining Methods) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 724.00 Tm ([COMPARE] Combining methods:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 710.00 Tm (- Joins: physical layer, side-by-side columns, can duplicate/lose data.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 696.00 Tm (- Union: physical layer, stack rows, for same structure.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 682.00 Tm (- Relationships: logical layer, flexible, Tableau-recommended default.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 668.00 Tm (- Data blending: visualization level, for separate data sources.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 649.00 Tm ([DECIDE] ? Decision guide:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 635.00 Tm (- Same entity split into multiple files/years? Union.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 621.00 Tm (- Need to physically merge columns in one logical table? Join.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 607.00 Tm (- Different entities in same data model? Relationship.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 593.00 Tm (- Different data sources and worksheet-level mix? Data blending.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 574.00 Tm ([REVIEW] Reviewer notes:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 560.00 Tm (- Always validate row counts, distinct counts, and totals.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 546.00 Tm (- Prefer relationships when possible.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 532.00 Tm (- Joins are not bad, but they require stronger checking.) Tj ET
+BT /F1 8 Tf 0.35 0.35 0.35 rg
+1 0 0 1 503 28 Tm (Page 15) Tj ET
+endstream
+endobj
+33 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> /Contents 34 0 R >>
+endobj
+34 0 obj
+<< /Length 4727 >>
+stream
+BT /F2 18 Tf 0.05 0.12 0.20 rg 1 0 0 1 54.00 784.00 Tm (3:28:46 - #6 Section: Tableau Metadata) Tj ET
+BT /F2 13 Tf 0.08 0.20 0.32 rg 1 0 0 1 54.00 743.00 Tm (3:29:42 - Data Types) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 719.00 Tm ([GUIDE] :\) Data type ang identity card ng field. Kapag mali ang identity, malilito si Tableau:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 705.00 Tm (text ba ito, number ba, date ba, location ba? Ayusin ito bago gumawa ng charts.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 686.00 Tm (Metadata means information about your fields: name, data type, role, geographic role, default) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 672.00 Tm (aggregation, etc. Tableau guesses metadata when you connect data, but you must check it.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 653.00 Tm ([TYPES] Main data types:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 639.00 Tm (- String: text, names, categories.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 625.00 Tm (- Number whole: integers like quantity or customer count.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 611.00 Tm (- Number decimal: values with decimals like price or discount.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 597.00 Tm (- Date: date only.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 583.00 Tm (- Date & time: date plus time.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 569.00 Tm (- Boolean: true/false.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 555.00 Tm (- Geographic: location fields assigned a geographic role.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 536.00 Tm ([WATCH OUT] ! Important warning: Keys used in joins/relationships must have matching data) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 522.00 Tm (types. Customer ID as string cannot properly match Customer ID as number without correction.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 503.00 Tm ([TAKEAWAY] = Summary: Wrong data type can break relationships, calculations, filters, and) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 489.00 Tm (charts.) Tj ET
+BT /F2 13 Tf 0.08 0.20 0.32 rg 1 0 0 1 54.00 463.00 Tm (3:48:35 - Geographic & Image Roles) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 439.00 Tm (Geographic role tells Tableau a field is a location such as Country, State, City, Postal Code,) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 425.00 Tm (Latitude, or Longitude. This enables map views.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 406.00 Tm (Image role lets Tableau use image URLs or image fields in visualization contexts where) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 392.00 Tm (supported.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 373.00 Tm ([EXAMPLE] -> Practical example: If "Germany" is just a string, Tableau treats it as text. If) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 359.00 Tm (assigned Country/Region geographic role, Tableau can place it on a map.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 340.00 Tm ([TAKEAWAY] = Summary: Roles add meaning beyond the raw data type.) Tj ET
+BT /F2 13 Tf 0.08 0.20 0.32 rg 1 0 0 1 54.00 314.00 Tm (3:53:18 - Dimensions & Measures) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 290.00 Tm ([GUIDE] :\) Ito ang core grammar ng Tableau. Dimensions answer 'by what?' Measures answer 'how) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 276.00 Tm (much?' Kapag kabisado mo ito, mas mabilis mong maiintindihan ang Rows, Columns, and Marks.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 257.00 Tm (Dimensions are fields used to slice, group, filter, or organize data. Measures are numeric) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 243.00 Tm (fields used for calculations and aggregation.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 224.00 Tm ([EXAMPLES] Examples:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 210.00 Tm (- Dimensions: Category, Country, Customer Name, Order Date.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 196.00 Tm (- Measures: Sales, Profit, Quantity, Discount.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 177.00 Tm ([KEY IDEA] Important difference:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 163.00 Tm (- Dimensions define level of detail.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 149.00 Tm (- Measures answer "how much/how many.") Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 130.00 Tm ([EXAMPLE] -> Practical example: "Sales by Category" uses Category as dimension and Sales as) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 116.00 Tm (measure.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 97.00 Tm ([TAKEAWAY] = Summary: Dimension = by what. Measure = what number.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 78.00 Tm ([MEMORY HOOK] * Dimension = pang-group. Measure = pang-compute.) Tj ET
+BT /F1 8 Tf 0.35 0.35 0.35 rg
+1 0 0 1 503 28 Tm (Page 16) Tj ET
+endstream
+endobj
+35 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> /Contents 36 0 R >>
+endobj
+36 0 obj
+<< /Length 2329 >>
+stream
+BT /F2 13 Tf 0.08 0.20 0.32 rg 1 0 0 1 54.00 781.00 Tm (4:10:57 - Discrete vs Continuous) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 757.00 Tm ([GUIDE] :\) Blue and green pills are not just colors. They change how Tableau draws the view:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 743.00 Tm (headers/categories for discrete, axes/ranges for continuous.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 724.00 Tm (Discrete fields create distinct headers or categories. Continuous fields create axes and) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 710.00 Tm (ranges.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 691.00 Tm ([TERMS] Important terms:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 677.00 Tm (- Discrete: separate values, often blue pill in Tableau.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 663.00 Tm (- Continuous: ongoing range, often green pill in Tableau.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 644.00 Tm ([EXAMPLES] Examples:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 630.00 Tm (- Discrete date: Year as separate headers: 2021, 2022, 2023.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 616.00 Tm (- Continuous date: timeline axis from one date to another.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 602.00 Tm (- Discrete numeric bin: score groups like 0-10, 10-20.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 588.00 Tm (- Continuous measure: Sales axis.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 569.00 Tm ([TAKEAWAY] = Summary: Discrete creates categories/headers. Continuous creates axes/ranges.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 550.00 Tm ([MEMORY HOOK] * Discrete = separate buckets. Continuous = flowing scale.) Tj ET
+BT /F2 13 Tf 0.08 0.20 0.32 rg 1 0 0 1 54.00 524.00 Tm (4:25:34 - [TAKEAWAY] Summary: Tableau Metadata) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 500.00 Tm ([REVIEW] Reviewer notes:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 486.00 Tm (- Check data types immediately after connection.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 472.00 Tm (- Set geographic roles for maps.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 458.00 Tm (- Understand dimensions/measures before building charts.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 444.00 Tm (- Blue vs green pills affect chart structure.) Tj ET
+BT /F1 8 Tf 0.35 0.35 0.35 rg
+1 0 0 1 503 28 Tm (Page 17) Tj ET
+endstream
+endobj
+37 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> /Contents 38 0 R >>
+endobj
+38 0 obj
+<< /Length 3033 >>
+stream
+BT /F2 18 Tf 0.05 0.12 0.20 rg 1 0 0 1 54.00 784.00 Tm (4:27:16 - #7 Section: Renaming & Aliases) Tj ET
+BT /F2 13 Tf 0.08 0.20 0.32 rg 1 0 0 1 54.00 743.00 Tm (4:27:50 - Naming Conventions) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 719.00 Tm ([GUIDE] :\) Good naming is kindness to your future self. Kapag binalikan mo ang workbook after) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 705.00 Tm (one month, clear names ang magliligtas sa iyo sa 'Ano itong Calc 7?' moment.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 686.00 Tm (Good naming makes Tableau easier to understand and maintain. Use clear, consistent names for) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 672.00 Tm (fields, tables, sheets, dashboards, and calculations.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 653.00 Tm ([BEST PRACTICE] Best practices:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 639.00 Tm (- Use business-friendly field names.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 625.00 Tm (- Avoid cryptic names like "SUM_SLS_23_Q".) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 611.00 Tm (- Use consistent capitalization.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 597.00 Tm (- Name calculations based on result, e.g. "Sales Current Year", not "Calc 1".) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 578.00 Tm ([TAKEAWAY] = Summary: Clear names reduce confusion for both developers and users.) Tj ET
+BT /F2 13 Tf 0.08 0.20 0.32 rg 1 0 0 1 54.00 552.00 Tm (4:38:28 - Renaming) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 528.00 Tm (Renaming can be done for fields, tables, worksheets, dashboards, and calculated fields. In) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 514.00 Tm (Tableau, renaming display names does not always rename the original database column; it often) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 500.00 Tm (changes how Tableau shows it.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 481.00 Tm ([EXAMPLE] -> Practical example: Rename "Cust_ID" to "Customer ID" for readability.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 462.00 Tm (Reviewer note: Rename fields in a way that matches business language, not just technical) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 448.00 Tm (database names.) Tj ET
+BT /F2 13 Tf 0.08 0.20 0.32 rg 1 0 0 1 54.00 422.00 Tm (4:48:46 - Aliases) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 398.00 Tm (Aliases change how field values are displayed. They are useful for coded values.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 379.00 Tm ([EXAMPLE] -> Practical example:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 365.00 Tm (- Original value: "DE") Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 351.00 Tm (- Alias: "Germany") Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 337.00 Tm (- Original value: "US") Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 323.00 Tm (- Alias: "United States") Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 304.00 Tm ([TAKEAWAY] = Summary: Rename fields for column names. Use aliases for values inside a field.) Tj ET
+BT /F1 8 Tf 0.35 0.35 0.35 rg
+1 0 0 1 503 28 Tm (Page 18) Tj ET
+endstream
+endobj
+39 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> /Contents 40 0 R >>
+endobj
+40 0 obj
+<< /Length 4301 >>
+stream
+BT /F2 18 Tf 0.05 0.12 0.20 rg 1 0 0 1 54.00 784.00 Tm (4:57:26 - #8 Section: Organizing Data) Tj ET
+BT /F2 13 Tf 0.08 0.20 0.32 rg 1 0 0 1 54.00 743.00 Tm (4:58:13 - Hierarchy) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 719.00 Tm ([GUIDE] :\) Hierarchy helps users explore from big picture to details. Para itong zoom lens:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 705.00 Tm (start sa Country, then State, then City, then specific location.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 686.00 Tm (Hierarchy groups dimensions into drill-down paths. Common example: Country > State > City >) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 672.00 Tm (Postal Code.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 653.00 Tm ([USE CASE] Use case: Let users start high level then drill down into details.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 634.00 Tm ([EXAMPLE] -> Practical example: Sales by Country, then expand to City without building a) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 620.00 Tm (separate chart.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 601.00 Tm ([TAKEAWAY] = Summary: Hierarchies organize dimensions into natural levels.) Tj ET
+BT /F2 13 Tf 0.08 0.20 0.32 rg 1 0 0 1 54.00 575.00 Tm (5:16:03 - Groups) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 551.00 Tm (Groups combine dimension members into custom categories.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 532.00 Tm ([EXAMPLE] -> Practical example: Group several small product subcategories into "Others" or) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 518.00 Tm (group selected countries into "Europe Focus Markets.") Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 499.00 Tm ([TAKEAWAY] = Summary: Groups are manual business-friendly buckets.) Tj ET
+BT /F2 13 Tf 0.08 0.20 0.32 rg 1 0 0 1 54.00 473.00 Tm (5:28:57 - Cluster Group) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 449.00 Tm (Clusters are automatic groupings based on patterns in data. Tableau can cluster marks using) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 435.00 Tm (variables/measures.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 416.00 Tm ([EXAMPLE] -> Practical example: Customers can be clustered by Sales and Profit into high-value,) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 402.00 Tm (low-profit, or average segments.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 383.00 Tm ([TAKEAWAY] = Summary: Groups are manual. Clusters are data-driven.) Tj ET
+BT /F2 13 Tf 0.08 0.20 0.32 rg 1 0 0 1 54.00 357.00 Tm (5:38:37 - Sets) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 333.00 Tm ([GUIDE] :\) Sets are great kapag gusto mong gumawa ng dynamic membership: in ba sa Top 10,) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 319.00 Tm (selected ba, profitable ba, included ba sa campaign? Very useful ito sa interactive dashboards.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 300.00 Tm (Sets define a subset of members based on condition or manual selection. Sets can be dynamic and) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 286.00 Tm (update when data changes.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 267.00 Tm ([TERMS] Important terms:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 253.00 Tm (- Set: selected subset of dimension members.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 239.00 Tm (- In/Out: whether a member belongs to a set.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 225.00 Tm (- Combined set: result of combining sets using logic like union/intersection/difference.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 206.00 Tm ([USE CASES] Use cases:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 192.00 Tm (- Top 10 customers by sales.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 178.00 Tm (- Customers with Profit > 1000.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 164.00 Tm (- Products in selected campaign.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 145.00 Tm ([TAKEAWAY] = Summary: Sets are powerful for comparisons, dynamic membership, and advanced) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 131.00 Tm (interactivity.) Tj ET
+BT /F2 13 Tf 0.08 0.20 0.32 rg 1 0 0 1 54.00 105.00 Tm (6:02:25 - Bins & Histograms) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 81.00 Tm (Bins divide a measure into equal-sized groups. Histograms show how many data points fall into) Tj ET
+BT /F1 8 Tf 0.35 0.35 0.35 rg
+1 0 0 1 503 28 Tm (Page 19) Tj ET
+endstream
+endobj
+41 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> /Contents 42 0 R >>
+endobj
+42 0 obj
+<< /Length 1124 >>
+stream
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 788.00 Tm (each bin.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 769.00 Tm ([TERMS] Important terms:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 755.00 Tm (- Bin: interval group, e.g. score 0-10, 10-20.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 741.00 Tm (- Histogram: chart showing distribution of values across bins.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 727.00 Tm (- Distribution: how values are spread.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 713.00 Tm (- Outlier: unusual value far from the rest.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 694.00 Tm ([EXAMPLE] -> Practical example: Customer scores from 0 to 100 can be binned by 10s. Histogram) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 680.00 Tm (shows whether most customers are low, medium, or high score.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 661.00 Tm ([TAKEAWAY] = Summary: Bins create groups from measures. Histograms reveal distribution, peaks,) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 647.00 Tm (valleys, and outliers.) Tj ET
+BT /F1 8 Tf 0.35 0.35 0.35 rg
+1 0 0 1 503 28 Tm (Page 20) Tj ET
+endstream
+endobj
+43 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> /Contents 44 0 R >>
+endobj
+44 0 obj
+<< /Length 4420 >>
+stream
+BT /F2 18 Tf 0.05 0.12 0.20 rg 1 0 0 1 54.00 784.00 Tm (6:12:55 - #9 Section: Filtering & Sorting Data) Tj ET
+BT /F2 13 Tf 0.08 0.20 0.32 rg 1 0 0 1 54.00 743.00 Tm (6:13:40 - Understand Tableau Filters) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 719.00 Tm ([GUIDE] :\) Filters look simple, pero may order of operations. Ibig sabihin, may nauuna at) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 705.00 Tm (nahuhuling filters. Kapag hindi ito gets, puwedeng magtaka ka kung bakit iba ang total.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 686.00 Tm (Filters remove or keep subsets of data for a purpose. Tableau has several filter types and an) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 672.00 Tm (order of operations.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 653.00 Tm ([TYPES] Common filter types:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 639.00 Tm (- Extract filter: limits data included in extract.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 625.00 Tm (- Data source filter: limits data for the whole data source.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 611.00 Tm (- Context filter: creates a filtered context before other dependent filters.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 597.00 Tm (- Dimension filter: filters categorical fields.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 583.00 Tm (- Measure filter: filters aggregated numeric values.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 569.00 Tm (- Table calculation filter: filters after table calculations.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 555.00 Tm (- User filter/security filter: filters by user permission or role.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 536.00 Tm (Important idea: Not all filters happen at the same time. Order matters.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 517.00 Tm ([TAKEAWAY] = Summary: Filters control what data enters the analysis and what users can explore.) Tj ET
+BT /F2 13 Tf 0.08 0.20 0.32 rg 1 0 0 1 54.00 491.00 Tm (6:25:11 - How to Create Filters) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 467.00 Tm ([HOW TO] Ways to create filters:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 453.00 Tm (- Drag a field to Filters shelf.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 439.00 Tm (- Right-click field and choose filter/show filter.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 425.00 Tm (- Use filter cards in the view.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 411.00 Tm (- Use context filters for performance/dependent filtering.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 397.00 Tm (- Use Top N filters for ranking.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 383.00 Tm (- Use relative date filters for dynamic periods.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 364.00 Tm ([EXAMPLES] Practical examples:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 350.00 Tm (- Show only year 2023.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 336.00 Tm (- Show only Category = Technology.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 322.00 Tm (- Show Top 10 customers by Sales.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 308.00 Tm (- Show orders from the last 30 days.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 289.00 Tm ([REVIEW] Reviewer notes:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 275.00 Tm (- Check whether filtering should happen globally or only on one sheet.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 261.00 Tm (- Use "Apply to worksheets" carefully.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 247.00 Tm (- Test totals after filtering.) Tj ET
+BT /F2 13 Tf 0.08 0.20 0.32 rg 1 0 0 1 54.00 221.00 Tm (6:48:05 - Customizing Filters) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 197.00 Tm (Filter cards can be customized for user experience.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 178.00 Tm ([OPTIONS] Common options:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 164.00 Tm (- Single value list/dropdown.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 150.00 Tm (- Multiple values list/dropdown.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 136.00 Tm (- Wildcard match.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 122.00 Tm (- Slider for ranges.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 108.00 Tm (- Relative date filter.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 94.00 Tm (- Top tab for Top N.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 80.00 Tm (- Include/exclude values.) Tj ET
+BT /F1 8 Tf 0.35 0.35 0.35 rg
+1 0 0 1 503 28 Tm (Page 21) Tj ET
+endstream
+endobj
+45 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> /Contents 46 0 R >>
+endobj
+46 0 obj
+<< /Length 959 >>
+stream
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 788.00 Tm (- Show All option.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 774.00 Tm (- Customize title and labels.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 755.00 Tm ([BEST PRACTICE] Best practices:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 741.00 Tm (- Use dropdowns to save space.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 727.00 Tm (- Use relevant values only when filter choices depend on other filters.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 713.00 Tm (- Avoid too many visible filters; they overwhelm users.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 699.00 Tm (- Name filters clearly.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 685.00 Tm (- Hide technical fields from end users.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 666.00 Tm ([TAKEAWAY] = Summary: Filtering is not just data logic. It is also dashboard usability.) Tj ET
+BT /F1 8 Tf 0.35 0.35 0.35 rg
+1 0 0 1 503 28 Tm (Page 22) Tj ET
+endstream
+endobj
+47 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> /Contents 48 0 R >>
+endobj
+48 0 obj
+<< /Length 2918 >>
+stream
+BT /F2 18 Tf 0.05 0.12 0.20 rg 1 0 0 1 54.00 784.00 Tm (8:03:50 - #10 Section: Tableau Parameters) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 750.00 Tm ([GUIDE] :\) Parameters are like knobs or remote controls for the dashboard. Pero tandaan: knob) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 736.00 Tm (lang siya. Kailangan ikabit sa calculation, filter, reference line, title, or action para may) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 722.00 Tm (epekto.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 703.00 Tm (Parameters are user-controlled variables. They replace static values in calculations, filters,) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 689.00 Tm (reference lines, titles, bins, and more.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 670.00 Tm ([TERMS] Important terms:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 656.00 Tm (- Parameter: value chosen by user, like a variable.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 642.00 Tm (- Dynamic calculation: calculation changes based on selected parameter value.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 628.00 Tm (- Reference line: line in chart used as threshold/target.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 614.00 Tm (- Swap measure/dimension: using parameter to let user choose what field is shown.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 595.00 Tm (Use cases from transcript:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 581.00 Tm (- Dynamic threshold in KPI colors.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 567.00 Tm (- Dynamic reference line.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 553.00 Tm (- Parameter-driven filters.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 539.00 Tm (- Switch between dimensions.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 525.00 Tm (- Switch between measures.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 511.00 Tm (- Dynamic titles/text.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 497.00 Tm (- Dynamic bin size for histograms.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 478.00 Tm ([EXAMPLE] -> Practical example: Instead of hardcoding "Profit < 10000 = Red", create a Profit) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 464.00 Tm (Threshold parameter. User can choose 5000, 10000, or 20000.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 445.00 Tm ([TAKEAWAY] = Summary: Parameters make one view flexible enough to answer multiple requirements.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 426.00 Tm ([REVIEW] Reviewer notes:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 412.00 Tm (- Parameter alone does nothing; it must be used in calculation/filter/reference line/etc.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 398.00 Tm (- Always show parameter control if users need to change it.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 384.00 Tm (- Update titles/tooltips so users know what parameter is selected.) Tj ET
+BT /F1 8 Tf 0.35 0.35 0.35 rg
+1 0 0 1 503 28 Tm (Page 23) Tj ET
+endstream
+endobj
+49 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> /Contents 50 0 R >>
+endobj
+50 0 obj
+<< /Length 2110 >>
+stream
+BT /F2 18 Tf 0.05 0.12 0.20 rg 1 0 0 1 54.00 784.00 Tm (8:32:09 - #11 Section: Tableau Actions) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 750.00 Tm ([GUIDE] :\) Actions make dashboards feel alive. Instead of asking users to read everything, you) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 736.00 Tm (let them click, hover, navigate, and explore the answer step by step.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 717.00 Tm (Actions make dashboards interactive. A user action like hover, select, or menu click can) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 703.00 Tm (trigger a change.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 684.00 Tm ([TERMS] Important terms:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 670.00 Tm (- Source sheet: sheet where action starts.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 656.00 Tm (- Target sheet: sheet affected by the action.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 642.00 Tm (- Trigger: hover, select, or menu.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 628.00 Tm (- Filter action: clicking a mark filters another view.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 614.00 Tm (- Highlight action: clicking/hovering highlights related marks.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 600.00 Tm (- URL action: opens a webpage.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 586.00 Tm (- Go to Sheet action: navigates to another sheet/dashboard.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 572.00 Tm (- Set action: changes set membership.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 558.00 Tm (- Parameter action: changes parameter value.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 539.00 Tm ([EXAMPLE] -> Practical example: Click a product category in a bar chart, and the sales trend) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 525.00 Tm (chart filters to that category.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 506.00 Tm ([TAKEAWAY] = Summary: Actions turn dashboards from static reports into guided exploration) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 492.00 Tm (tools.) Tj ET
+BT /F1 8 Tf 0.35 0.35 0.35 rg
+1 0 0 1 503 28 Tm (Page 24) Tj ET
+endstream
+endobj
+51 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> /Contents 52 0 R >>
+endobj
+52 0 obj
+<< /Length 4709 >>
+stream
+BT /F2 18 Tf 0.05 0.12 0.20 rg 1 0 0 1 54.00 784.00 Tm (9:05:56 - #12 Section: Tableau Calculations) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 750.00 Tm ([GUIDE] :\) Calculations are where Tableau becomes customized. Kapag hindi available ang exact) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 736.00 Tm (field na kailangan mo, gagawa ka ng calculated field para makuha ang business logic.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 717.00 Tm (Calculations create new fields from existing data. They are essential for custom logic, KPIs,) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 703.00 Tm (transformations, labels, and advanced charts.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 684.00 Tm ([TERMS] Important terms:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 670.00 Tm (- Calculated field: custom field created using formula.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 656.00 Tm (- Function: built-in operation like SUM, IF, LEFT, DATEPART.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 642.00 Tm (- Syntax: rules for writing valid formula.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 628.00 Tm (- Aggregation: summarizing values like SUM, AVG, MIN, MAX, COUNT.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 609.00 Tm ([EXAMPLE] -> Practical example: Create Profit Ratio = SUM\([Profit]\) / SUM\([Sales]\).) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 590.00 Tm ([REVIEW] Reviewer notes:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 576.00 Tm (- Break complex calculations into smaller intermediate fields when useful.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 562.00 Tm (- Test calculations in a simple table before using in complex charts.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 548.00 Tm (- Check level of detail: row-level, aggregate, table calculation, or LOD.) Tj ET
+BT /F2 13 Tf 0.08 0.20 0.32 rg 1 0 0 1 54.00 522.00 Tm (9:31:33 - Types of Tableau Calculations) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 498.00 Tm ([GUIDE] :\) Ang calculation type ang nagsasabi kung kailan at sa anong level ginagawa ang math.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 484.00 Tm (Maraming errors sa Tableau calculations ay hindi syntax problem; level-of-detail problem sila.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 465.00 Tm ([TYPES] Four major calculation types:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 451.00 Tm (- Row-level calculation: computed for each row before aggregation.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 437.00 Tm (- Aggregate calculation: computed after values are aggregated in the view.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 423.00 Tm (- Table calculation: computed based on the table/view result, e.g. running total, percent) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 409.00 Tm (  of total.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 395.00 Tm (- LOD expression: controls calculation level of detail independent of the view.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 376.00 Tm ([DECIDE] ? Decision guide:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 362.00 Tm (- Need per-row logic? Row-level.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 348.00 Tm (- Need SUM/AVG level in current view? Aggregate.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 334.00 Tm (- Need running total/rank/percent across view? Table calculation.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 320.00 Tm (- Need fixed granularity regardless of view? LOD.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 301.00 Tm ([TAKEAWAY] = Summary: Choose calculation type based on when and at what detail the result) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 287.00 Tm (should be computed.) Tj ET
+BT /F2 13 Tf 0.08 0.20 0.32 rg 1 0 0 1 54.00 261.00 Tm (9:53:53 - Number Functions) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 237.00 Tm (Number functions manipulate numeric values.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 218.00 Tm ([EXAMPLES] Examples:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 204.00 Tm (- ROUND: round number.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 190.00 Tm (- CEILING/FLOOR: move number up/down to whole boundary.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 176.00 Tm (- ABS: absolute value.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 162.00 Tm (- SQRT: square root.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 148.00 Tm (- POWER: exponent.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 129.00 Tm ([USE CASE] Use case: clean decimals, format KPI values, calculate ratios, or create thresholds.) Tj ET
+BT /F2 13 Tf 0.08 0.20 0.32 rg 1 0 0 1 54.00 103.00 Tm (10:04:12 - String Functions) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 79.00 Tm (String functions manipulate text.) Tj ET
+BT /F1 8 Tf 0.35 0.35 0.35 rg
+1 0 0 1 503 28 Tm (Page 25) Tj ET
+endstream
+endobj
+53 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> /Contents 54 0 R >>
+endobj
+54 0 obj
+<< /Length 4299 >>
+stream
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 788.00 Tm ([EXAMPLES] Examples:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 774.00 Tm (- LEFT/RIGHT/MID: extract part of text.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 760.00 Tm (- LEN: length of text.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 746.00 Tm (- FIND/CONTAINS: search text.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 732.00 Tm (- REPLACE: replace text.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 718.00 Tm (- SPLIT: split text by delimiter.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 704.00 Tm (- UPPER/LOWER: change case.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 690.00 Tm (- TRIM: remove extra spaces.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 671.00 Tm ([EXAMPLE] -> Practical example: Extract product code from "ABC-123-Monitor" using SPLIT or MID.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 652.00 Tm ([TAKEAWAY] = Summary: String functions clean and reshape text fields.) Tj ET
+BT /F2 13 Tf 0.08 0.20 0.32 rg 1 0 0 1 54.00 626.00 Tm (11:27:55 - Date Functions) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 602.00 Tm (Date functions work with dates and time.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 583.00 Tm ([EXAMPLES] Examples:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 569.00 Tm (- TODAY: current date.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 555.00 Tm (- NOW: current date and time.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 541.00 Tm (- DATEPART: get part like year/month/day.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 527.00 Tm (- DATETRUNC: truncate date to month/year level.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 513.00 Tm (- DATEDIFF: difference between dates.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 499.00 Tm (- DATEADD: add interval to date.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 480.00 Tm ([EXAMPLE] -> Practical example: Show orders from current year by using DATEPART\('year', [Order) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 466.00 Tm (Date]\) = DATEPART\('year', TODAY\(\)\).) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 447.00 Tm ([TAKEAWAY] = Summary: Date functions are needed for trends, periods, aging, and dynamic time) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 433.00 Tm (filters.) Tj ET
+BT /F2 13 Tf 0.08 0.20 0.32 rg 1 0 0 1 54.00 407.00 Tm (12:17:31 - Null Functions) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 383.00 Tm ([GUIDE] :\) Null is not automatically bad. It means missing, unknown, or not applicable. Treat) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 369.00 Tm (it carefully dahil ibang-iba ang meaning ng null sa zero.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 350.00 Tm (Null means missing or unknown value. Nulls can affect averages, counts, calculations, and) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 336.00 Tm (charts.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 317.00 Tm (Common functions:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 303.00 Tm (- ISNULL: checks if value is null.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 289.00 Tm (- IFNULL: replaces null with alternative value.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 275.00 Tm (- ZN: converts null numeric values to zero.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 256.00 Tm ([WATCH OUT] ! Important warning: Replacing null with zero is not always correct. Null can mean) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 242.00 Tm ("unknown", while zero means "known value of nothing.") Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 223.00 Tm ([TAKEAWAY] = Summary: Handle nulls intentionally, especially before aggregates.) Tj ET
+BT /F2 13 Tf 0.08 0.20 0.32 rg 1 0 0 1 54.00 197.00 Tm (12:30:33 - Logical Functions) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 173.00 Tm (Logical functions let calculations make decisions.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 154.00 Tm ([EXAMPLES] Examples:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 140.00 Tm (- IF / THEN / ELSEIF / ELSE / END) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 126.00 Tm (- CASE / WHEN / THEN / ELSE / END) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 112.00 Tm (- AND, OR, NOT) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 98.00 Tm (- IN) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 79.00 Tm ([EXAMPLE] -> Practical example:) Tj ET
+BT /F1 8 Tf 0.35 0.35 0.35 rg
+1 0 0 1 503 28 Tm (Page 26) Tj ET
+endstream
+endobj
+55 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> /Contents 56 0 R >>
+endobj
+56 0 obj
+<< /Length 4220 >>
+stream
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 788.00 Tm (IF SUM\([Sales]\) > 200000 THEN "Green") Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 774.00 Tm (ELSEIF SUM\([Sales]\) > 100000 THEN "Orange") Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 760.00 Tm (ELSE "Red") Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 746.00 Tm (END) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 727.00 Tm ([TAKEAWAY] = Summary: Logical functions create categories, KPIs, flags, and conditional) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 713.00 Tm (formatting.) Tj ET
+BT /F2 13 Tf 0.08 0.20 0.32 rg 1 0 0 1 54.00 687.00 Tm (13:16:13 - Aggregate Functions) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 663.00 Tm (Aggregate functions summarize many rows.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 644.00 Tm ([EXAMPLES] Examples:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 630.00 Tm (- SUM: total.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 616.00 Tm (- AVG: average.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 602.00 Tm (- MIN/MAX: smallest/largest.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 588.00 Tm (- COUNT: count values.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 574.00 Tm (- COUNTD: count distinct values.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 560.00 Tm (- MEDIAN: middle value.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 541.00 Tm ([EXAMPLE] -> Practical example: SUM\(Sales\) by Category shows total sales per category.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 522.00 Tm ([TAKEAWAY] = Summary: Aggregates answer business questions at the level of the view.) Tj ET
+BT /F2 13 Tf 0.08 0.20 0.32 rg 1 0 0 1 54.00 496.00 Tm (13:35:24 - Attribute Function ATTR\(\)) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 472.00 Tm (ATTR returns a value if all underlying rows have the same value. If multiple values exist,) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 458.00 Tm (Tableau may show an asterisk.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 439.00 Tm ([USE CASE] Use case: safely display dimensions in aggregate contexts.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 420.00 Tm ([SIMPLE] :D Simple explanation: ATTR asks, "Is there exactly one value here? If yes, show it.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 406.00 Tm (If not, signal that there are multiple.") Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 387.00 Tm ([TAKEAWAY] = Summary: ATTR helps avoid misleading dimension display when multiple values exist.) Tj ET
+BT /F2 13 Tf 0.08 0.20 0.32 rg 1 0 0 1 54.00 361.00 Tm (13:59:29 - Fixed) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 337.00 Tm ([GUIDE] :\) FIXED LOD is useful kapag kailangan mo ng stable calculation level. Example: total) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 323.00 Tm (sales per customer kahit iba-iba ang dimensions na nasa chart.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 304.00 Tm (FIXED LOD calculates at a specified level, regardless of the view's current dimensions.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 285.00 Tm (Example:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 271.00 Tm ({ FIXED [Customer ID] : SUM\([Sales]\) }) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 252.00 Tm (Meaning: calculate total sales per customer, even if the current chart is by Category or Year.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 233.00 Tm ([USE CASE] Use case: customer-level metrics, cohort logic, stable denominators.) Tj ET
+BT /F2 13 Tf 0.08 0.20 0.32 rg 1 0 0 1 54.00 207.00 Tm (14:08:55 - Exclude) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 183.00 Tm (EXCLUDE removes a dimension from the calculation level, based on current view.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 164.00 Tm (Example:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 150.00 Tm ({ EXCLUDE [Category] : SUM\([Sales]\) }) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 131.00 Tm (Meaning: calculate sales while ignoring Category in the view.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 112.00 Tm ([TAKEAWAY] = Summary: EXCLUDE is useful when you want broader totals while the view has more) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 98.00 Tm (detail.) Tj ET
+BT /F2 13 Tf 0.08 0.20 0.32 rg 1 0 0 1 54.00 72.00 Tm (14:14:26 - Include) Tj ET
+BT /F1 8 Tf 0.35 0.35 0.35 rg
+1 0 0 1 503 28 Tm (Page 27) Tj ET
+endstream
+endobj
+57 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> /Contents 58 0 R >>
+endobj
+58 0 obj
+<< /Length 718 >>
+stream
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 781.00 Tm (INCLUDE adds a dimension to the calculation level, even if it is not displayed in the view.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 762.00 Tm (Example:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 748.00 Tm ({ INCLUDE [Order ID] : SUM\([Sales]\) }) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 729.00 Tm (Meaning: compute with Order ID detail included, then aggregate to the view.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 710.00 Tm ([TAKEAWAY] = Summary: INCLUDE is useful when calculation needs more detail than what the chart) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 696.00 Tm (shows.) Tj ET
+BT /F1 8 Tf 0.35 0.35 0.35 rg
+1 0 0 1 503 28 Tm (Page 28) Tj ET
+endstream
+endobj
+59 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> /Contents 60 0 R >>
+endobj
+60 0 obj
+<< /Length 4715 >>
+stream
+BT /F2 18 Tf 0.05 0.12 0.20 rg 1 0 0 1 54.00 784.00 Tm (15:02:51 - #13 Section: Tableau Charts) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 750.00 Tm ([GUIDE] :\) Chart selection is a skill. Hindi goal ang gumamit ng maraming fancy charts; goal) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 736.00 Tm (ang pumili ng chart na pinaka-mabilis sumagot sa business question.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 717.00 Tm (The course builds many chart types. The key lesson is not to memorize 63 charts, but to choose) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 703.00 Tm (the right chart for the question.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 684.00 Tm ([CHART MENU] Major chart families and uses:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 670.00 Tm (- Bar charts: compare categories.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 656.00 Tm (- Line charts: show trends over time.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 642.00 Tm (- Area charts: show trend plus volume.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 628.00 Tm (- Pie/donut charts: show simple part-to-whole, but use carefully.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 614.00 Tm (- Treemap: part-to-whole with many categories.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 600.00 Tm (- Scatter plot: relationship between two measures.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 586.00 Tm (- Histogram: distribution of one measure.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 572.00 Tm (- Box plot: distribution and outliers.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 558.00 Tm (- Maps: geographic analysis.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 544.00 Tm (- Heat map/highlight table: intensity across categories.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 530.00 Tm (- Bullet chart: actual vs target.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 516.00 Tm (- Gantt chart: duration/timeline.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 502.00 Tm (- Waterfall chart: positive/negative contribution to total.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 488.00 Tm (- KPI cards: quick key numbers.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 474.00 Tm (- Sparkline: compact trend line.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 460.00 Tm (- Bar-in-bar: compare current vs previous or actual vs target.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 446.00 Tm (- Dual-axis chart: combine two measures in one view, with caution.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 427.00 Tm ([DECIDE] ? Decision guide by question:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 413.00 Tm (- "Which category is higher?" Use bar chart.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 399.00 Tm (- "How did it change over time?" Use line chart.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 385.00 Tm (- "Where is it happening?" Use map.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 371.00 Tm (- "How are values distributed?" Use histogram or box plot.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 357.00 Tm (- "How are two measures related?" Use scatter plot.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 343.00 Tm (- "What is current vs target?" Use bullet chart or bar-in-bar.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 329.00 Tm (- "What makes up the total?" Use stacked bar, treemap, or limited pie/donut.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 310.00 Tm ([BEST PRACTICE] Important chart tips:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 296.00 Tm (- Sort bars when comparing.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 282.00 Tm (- Use labels only where helpful.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 268.00 Tm (- Avoid too many colors.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 254.00 Tm (- Use consistent colors for same meanings.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 240.00 Tm (- Do not use pie charts with too many slices.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 226.00 Tm (- Always match chart type to the business question.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 207.00 Tm ([TAKEAWAY] = Summary: Good chart selection starts from the question, not from what looks fancy.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 188.00 Tm ([REVIEW] Reviewer notes:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 174.00 Tm (- A simple chart that answers the question is better than a complex chart that confuses) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 160.00 Tm (  users.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 146.00 Tm (- Test readability at dashboard size, not just full worksheet size.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 132.00 Tm (- Use tooltips for supporting details, not for hiding the main answer.) Tj ET
+BT /F1 8 Tf 0.35 0.35 0.35 rg
+1 0 0 1 503 28 Tm (Page 29) Tj ET
+endstream
+endobj
+61 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> /Contents 62 0 R >>
+endobj
+62 0 obj
+<< /Length 2820 >>
+stream
+BT /F2 18 Tf 0.05 0.12 0.20 rg 1 0 0 1 54.00 784.00 Tm (17:55:35 - #14 Section: Tableau Dashboards) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 750.00 Tm ([GUIDE] :\) Dashboard design is part analysis, part communication. Kailangan tama ang numbers,) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 736.00 Tm (malinaw ang layout, at obvious ang next action ng user.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 717.00 Tm (Dashboard building means arranging multiple charts, filters, text, legends, images, and) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 703.00 Tm (controls into one usable screen.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 684.00 Tm ([TERMS] Important terms:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 670.00 Tm (- Tiled layout: objects snap into structured containers.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 656.00 Tm (- Floating layout: objects can be placed freely.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 642.00 Tm (- Container: layout object that groups and controls spacing of dashboard items.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 628.00 Tm (- Horizontal container: items side by side.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 614.00 Tm (- Vertical container: items stacked top to bottom.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 600.00 Tm (- Padding: spacing inside or outside objects.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 586.00 Tm (- Dashboard action: interaction between objects.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 567.00 Tm ([BEST PRACTICE] Best practices:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 553.00 Tm (- Start with purpose and user question.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 539.00 Tm (- Use containers to keep layout clean.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 525.00 Tm (- Keep spacing consistent.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 511.00 Tm (- Put KPIs at the top if users need quick overview.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 497.00 Tm (- Put filters where users can find them, but avoid clutter.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 483.00 Tm (- Use actions to make charts interactive.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 469.00 Tm (- Test the dashboard in presentation/viewer mode.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 450.00 Tm ([EXAMPLE] -> Practical example: Sales dashboard may have KPIs at top, monthly sales trend in) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 436.00 Tm (the middle, product/category comparison below, and a collapsible filter panel on the side.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 417.00 Tm ([TAKEAWAY] = Summary: A dashboard is not just a pile of charts. It is a designed) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 403.00 Tm (decision-making interface.) Tj ET
+BT /F1 8 Tf 0.35 0.35 0.35 rg
+1 0 0 1 503 28 Tm (Page 30) Tj ET
+endstream
+endobj
+63 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> /Contents 64 0 R >>
+endobj
+64 0 obj
+<< /Length 3743 >>
+stream
+BT /F2 18 Tf 0.05 0.12 0.20 rg 1 0 0 1 54.00 784.00 Tm (18:22:08 - #15 Section: Tableau Project) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 750.00 Tm ([GUIDE] :\) This is where everything comes together. Real projects begin with requirements, not) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 736.00 Tm (with colors. Kapag malinaw ang question, mas madali ang data source, calculation, chart, and) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 722.00 Tm (layout decisions.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 703.00 Tm (The final project shows a real workflow from requirements to dashboard delivery.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 684.00 Tm ([FLOW] Project phases:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 670.00 Tm (1. Analyze user requirements.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 656.00 Tm (2. Decide charts for each requirement.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 642.00 Tm (3. Design dashboard mockup.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 628.00 Tm (4. Prepare data source.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 614.00 Tm (5. Build calculated fields.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 600.00 Tm (6. Build charts.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 586.00 Tm (7. Plan dashboard containers.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 572.00 Tm (8. Build dashboard layout.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 558.00 Tm (9. Format, clean, and test.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 544.00 Tm (10. Add interactivity and navigation.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 530.00 Tm (11. Deliver final dashboards.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 511.00 Tm ([EXAMPLES] Example project requirements:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 497.00 Tm (- Show KPI cards for sales/profit/quantity or customers.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 483.00 Tm (- Compare current year vs previous year.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 469.00 Tm (- Show monthly trends using sparklines.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 455.00 Tm (- Show subcategory comparisons using bar-in-bar.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 441.00 Tm (- Show data distribution using histogram.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 427.00 Tm (- Show top 10 customers by profit.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 413.00 Tm (- Allow filtering by product and location information.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 399.00 Tm (- Make charts interactive.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 385.00 Tm (- Add navigation icons between sales and customer dashboards.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 366.00 Tm ([LESSONS] Important project lessons:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 352.00 Tm (- Do not rush into building charts without a plan.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 338.00 Tm (- Translate every requirement into a chart or dashboard element.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 324.00 Tm (- Use one consistent mockup/design for related dashboards.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 310.00 Tm (- Reuse structure when making a second dashboard.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 296.00 Tm (- Test calculations in simple tables before relying on them in visuals.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 282.00 Tm (- Test filters, parameters, actions, and navigation.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 263.00 Tm ([TAKEAWAY] = Summary: Real Tableau work is structured. Requirements drive chart choices, chart) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 249.00 Tm (choices drive layout, and testing protects correctness.) Tj ET
+BT /F1 8 Tf 0.35 0.35 0.35 rg
+1 0 0 1 503 28 Tm (Page 31) Tj ET
+endstream
+endobj
+65 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> /Contents 66 0 R >>
+endobj
+66 0 obj
+<< /Length 3180 >>
+stream
+BT /F2 18 Tf 0.05 0.12 0.20 rg 1 0 0 1 54.00 784.00 Tm (Final Reviewer Cheat Sheet) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 750.00 Tm (Use this page as your last-minute review before practice or exam. Cover the answer with your) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 736.00 Tm (hand, explain the term aloud, then check if your explanation matches. :\)) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 717.00 Tm ([CORE] Core concepts:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 703.00 Tm (- BI: using data to support decisions.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 689.00 Tm (- Data visualization: turning data into visuals.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 675.00 Tm (- Tableau: visual analytics platform.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 661.00 Tm (- Worksheet: one chart.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 647.00 Tm (- Dashboard: multiple charts/controls in one screen.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 633.00 Tm (- Dimension: category/grouping field.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 619.00 Tm (- Measure: numeric field.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 605.00 Tm (- Discrete: separate headers/categories.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 591.00 Tm (- Continuous: axis/range.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 577.00 Tm (- Relationship: flexible logical table connection.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 563.00 Tm (- Join: physical side-by-side merge.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 549.00 Tm (- Union: vertical row stacking.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 535.00 Tm (- Data blending: worksheet-level combination across sources.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 521.00 Tm (- Parameter: user-controlled variable.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 507.00 Tm (- Action: user interaction that changes dashboard behavior.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 493.00 Tm (- Calculation: custom field/formula.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 479.00 Tm (- LOD: calculation with controlled level of detail.) Tj ET
+BT /F2 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 460.00 Tm ([WATCH OUT] ! Common mistakes to avoid:) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 446.00 Tm (- Publishing private data to Tableau Public.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 432.00 Tm (- Trusting Tableau's guessed data types without checking.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 418.00 Tm (- Joining tables without validating duplicates/lost records.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 404.00 Tm (- Using too many filters on a dashboard.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 390.00 Tm (- Choosing a chart because it looks advanced, not because it answers the question.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 376.00 Tm (- Replacing nulls with zero without understanding meaning.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 362.00 Tm (- Making calculations directly in complex visuals without testing.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 348.00 Tm (- Building dashboards before understanding requirements.) Tj ET
+BT /F1 8 Tf 0.35 0.35 0.35 rg
+1 0 0 1 503 28 Tm (Page 32) Tj ET
+endstream
+endobj
+67 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> /Contents 68 0 R >>
+endobj
+68 0 obj
+<< /Length 3373 >>
+stream
+BT /F2 18 Tf 0.05 0.12 0.20 rg 1 0 0 1 54.00 784.00 Tm (Practice Quiz) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 750.00 Tm (Try answering without looking first. If you miss an item, go back to the timestamped section) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 54.00 736.00 Tm (and read the [SIMPLE], [EXAMPLE], and [TAKEAWAY] parts.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 717.00 Tm (1. Ano ang ibig sabihin ng BI?) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 703.00 Tm (2. Ano ang difference ng raw data at insight?) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 689.00 Tm (3. Ibigay ang 3 V's of Big Data.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 675.00 Tm (4. Kailan mas practical gamitin ang Tableau kaysa Excel?) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 661.00 Tm (5. Ano ang difference ng Tableau Desktop at Tableau Public?) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 647.00 Tm (6. Ano ang difference ng live connection at extract connection?) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 633.00 Tm (7. Ano ang .twbx?) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 619.00 Tm (8. Ano ang role ng VizQL Server?) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 605.00 Tm (9. Ano ang difference ng logical layer at physical layer?) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 591.00 Tm (10. Ano ang difference ng join at union?) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 577.00 Tm (11. Bakit recommended ang relationships sa Tableau?) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 563.00 Tm (12. Kailan ginagamit ang data blending?) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 549.00 Tm (13. Ano ang dimension? Magbigay ng example.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 535.00 Tm (14. Ano ang measure? Magbigay ng example.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 521.00 Tm (15. Ano ang difference ng discrete at continuous?) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 507.00 Tm (16. Ano ang alias sa Tableau?) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 493.00 Tm (17. Para saan ang hierarchy?) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 479.00 Tm (18. Ano ang difference ng group at set?) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 465.00 Tm (19. Ano ang histogram?) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 451.00 Tm (20. Bakit mahalaga ang order of operations sa filters?) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 437.00 Tm (21. Ano ang parameter?) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 423.00 Tm (22. Bakit hindi sapat gumawa lang ng parameter control?) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 409.00 Tm (23. Ano ang dashboard action?) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 395.00 Tm (24. Ibigay ang apat na types ng Tableau calculations.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 381.00 Tm (25. Kailan gagamit ng FIXED LOD?) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 367.00 Tm (26. Ano ang ginagawa ng IFNULL o ZN?) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 353.00 Tm (27. Anong chart ang bagay para sa trend over time?) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 339.00 Tm (28. Anong chart ang bagay para sa distribution?) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 325.00 Tm (29. Ano ang purpose ng containers sa dashboard?) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 311.00 Tm (30. Bakit kailangan magsimula sa requirements sa Tableau project?) Tj ET
+BT /F1 8 Tf 0.35 0.35 0.35 rg
+1 0 0 1 503 28 Tm (Page 33) Tj ET
+endstream
+endobj
+69 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> /Contents 70 0 R >>
+endobj
+70 0 obj
+<< /Length 4941 >>
+stream
+BT /F2 18 Tf 0.05 0.12 0.20 rg 1 0 0 1 54.00 784.00 Tm (Answer Key) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 750.00 Tm (1. Business Intelligence: paggamit ng data analysis at reporting para makagawa ng better) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 736.00 Tm (decisions.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 722.00 Tm (2. Raw data ay hilaw at mahirap intindihin; insight ay meaningful understanding/actionable) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 708.00 Tm (finding mula sa data.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 694.00 Tm (3. Volume, Velocity, Variety.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 680.00 Tm (4. Kapag kailangan ng automation, large data handling, security, centralized sharing, at) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 666.00 Tm (interactive dashboards.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 652.00 Tm (5. Desktop is paid/professional/private authoring tool; Public is free but intended for) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 638.00 Tm (public publishing/learning.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 624.00 Tm (6. Live queries source directly for freshness; extract uses copied optimized data for) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 610.00 Tm (performance.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 596.00 Tm (7. Packaged workbook containing workbook plus data/assets.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 582.00 Tm (8. It converts user interactions into queries and renders visualizations.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 568.00 Tm (9. Logical layer uses relationships and keeps tables separate; physical layer uses) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 554.00 Tm (joins/unions and can merge tables.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 540.00 Tm (10. Join adds columns side by side; union stacks rows vertically.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 526.00 Tm (11. Relationships are flexible and reduce risk of duplicate/lost rows compared with joins.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 512.00 Tm (12. When combining different data sources at worksheet/visualization level.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 498.00 Tm (13. Dimension is grouping/category field, e.g. Category, Country, Customer Name.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 484.00 Tm (14. Measure is numeric field for calculation, e.g. Sales, Profit, Quantity.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 470.00 Tm (15. Discrete creates separate headers/categories; continuous creates axis/range.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 456.00 Tm (16. Alias changes displayed value names, e.g. DE shown as Germany.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 442.00 Tm (17. Hierarchy creates drill-down levels like Country > City > Postal Code.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 428.00 Tm (18. Group is manual grouping of members; set is subset membership that can be) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 414.00 Tm (dynamic/condition-based.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 400.00 Tm (19. Chart showing distribution of values across bins.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 386.00 Tm (20. Because filters happen at different stages and can affect results/performance) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 372.00 Tm (differently.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 358.00 Tm (21. User-controlled variable value used in calculations, filters, reference lines, titles,) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 344.00 Tm (etc.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 330.00 Tm (22. Parameter must be connected to a calculation/filter/reference line/etc. to affect the) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 316.00 Tm (view.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 302.00 Tm (23. Interaction triggered by user action, such as filter, highlight, URL, navigation, set,) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 288.00 Tm (or parameter action.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 274.00 Tm (24. Row-level, aggregate, table calculation, and LOD expression.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 260.00 Tm (25. When calculation must stay at a specified granularity regardless of current view.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 246.00 Tm (26. They handle null values; IFNULL replaces null, ZN converts null numeric values to zero.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 232.00 Tm (27. Line chart.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 218.00 Tm (28. Histogram or box plot.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 204.00 Tm (29. Containers organize layout, alignment, spacing, and structure.) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 190.00 Tm (30. Requirements define what questions to answer, which charts to build, and how the) Tj ET
+BT /F1 10.2 Tf 0 0 0 rg 1 0 0 1 72.00 176.00 Tm (dashboard should work.) Tj ET
+BT /F1 8 Tf 0.35 0.35 0.35 rg
+1 0 0 1 503 28 Tm (Page 34) Tj ET
+endstream
+endobj
+xref
+0 71
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000350 00000 n 
+0000000589 00000 n 
+0000005647 00000 n 
+0000005886 00000 n 
+0000008267 00000 n 
+0000008506 00000 n 
+0000011367 00000 n 
+0000011607 00000 n 
+0000017264 00000 n 
+0000017505 00000 n 
+0000023194 00000 n 
+0000023435 00000 n 
+0000028892 00000 n 
+0000029133 00000 n 
+0000030641 00000 n 
+0000030882 00000 n 
+0000035763 00000 n 
+0000036004 00000 n 
+0000038870 00000 n 
+0000039111 00000 n 
+0000044131 00000 n 
+0000044372 00000 n 
+0000047741 00000 n 
+0000047982 00000 n 
+0000052585 00000 n 
+0000052826 00000 n 
+0000057878 00000 n 
+0000058119 00000 n 
+0000063041 00000 n 
+0000063282 00000 n 
+0000065246 00000 n 
+0000065487 00000 n 
+0000070267 00000 n 
+0000070508 00000 n 
+0000072890 00000 n 
+0000073131 00000 n 
+0000076217 00000 n 
+0000076458 00000 n 
+0000080812 00000 n 
+0000081053 00000 n 
+0000082230 00000 n 
+0000082471 00000 n 
+0000086944 00000 n 
+0000087185 00000 n 
+0000088196 00000 n 
+0000088437 00000 n 
+0000091408 00000 n 
+0000091649 00000 n 
+0000093812 00000 n 
+0000094053 00000 n 
+0000098815 00000 n 
+0000099056 00000 n 
+0000103408 00000 n 
+0000103649 00000 n 
+0000107922 00000 n 
+0000108163 00000 n 
+0000108933 00000 n 
+0000109174 00000 n 
+0000113942 00000 n 
+0000114183 00000 n 
+0000117056 00000 n 
+0000117297 00000 n 
+0000121093 00000 n 
+0000121334 00000 n 
+0000124567 00000 n 
+0000124808 00000 n 
+0000128234 00000 n 
+0000128475 00000 n 
+trailer
+<< /Size 71 /Root 1 0 R >>
+startxref
+133469
+%%EOF

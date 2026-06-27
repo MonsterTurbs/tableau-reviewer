@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 356" role="img" aria-labelledby="title desc">
+  <title id="title">Annotated Tableau worksheet controls</title>
+  <desc id="desc">A cropped Tableau worksheet interface with numbered callouts for Data, Analytics, Pages, Filters, Marks, Color, Size, Text, Detail, Tooltip, Columns, Rows, and toolbar icons.</desc>
+  <defs>
+    <style>
+      .bg{fill:#f5f5f5}.panel{fill:#fff;stroke:#cfcfcf}.bar{fill:#f7f7f7;stroke:#d0d0d0}.text{font:14px Arial,sans-serif;fill:#222}.small{font:12px Arial,sans-serif;fill:#555}.label{font:bold 14px Arial,sans-serif;fill:#111}.muted{fill:#777}.pill{fill:#fff;stroke:#bfc6cc}.icon{fill:#59636b}.accent{fill:#0f766e}.call{fill:#0f766e;stroke:#fff;stroke-width:2}.num{font:bold 13px Arial,sans-serif;fill:#fff;text-anchor:middle;dominant-baseline:central}.dash{stroke:#0f766e;stroke-width:2;stroke-dasharray:4 4;fill:none}.card{fill:#fbfbfb;stroke:#d9d9d9}.btn{fill:#fff;stroke:#c9c9c9}.pink{fill:#d85b8f}.orange{fill:#f39b32}.blue{fill:#5b7ea4}.green{fill:#6bb56b}
+    </style>
+  </defs>
+  <rect class="bg" width="820" height="356"/>
+  <rect class="bar" x="0" y="0" width="820" height="43"/>
+  <g transform="translate(6 12)">
+    <path class="icon" d="M1 8h14v2H1zM8 1h2v16H8z"/>
+    <path class="icon" d="M45 8h22v2H45zM45 8l8-7v14z" opacity=".75"/>
+    <path class="icon" d="M80 8h22v2H80zM102 8l-8-7v14z" opacity=".25"/>
+    <path class="icon" d="M127 12c15 0 18-10 8-13M127 12l5-5v9z" opacity=".35"/>
+  </g>
+  <g transform="translate(132 11)" class="icon">
+    <rect x="0" y="3" width="12" height="13" rx="1" fill="none" stroke="#5e6870"/><path d="M10 15h6v2h-6z"/>
+    <rect x="36" y="1" width="10" height="16" rx="1" fill="none" stroke="#5e6870"/><ellipse cx="41" cy="18" rx="8" ry="3" fill="none" stroke="#5e6870"/>
+    <rect x="84" y="3" width="14" height="12" fill="none" stroke="#5e6870"/><path d="M88 0h2v18h-2M94 0h2v18h-2"/>
+    <rect x="124" y="1" width="14" height="14" fill="none" stroke="#5e6870"/><path d="M128 0h2v18h-2M134 0h2v18h-2"/><path d="M140 2l8 8M148 2l-8 8" stroke="#9aa0a6"/>
+    <path d="M205 2h12v3h-12zM207 8h8v3h-8zM209 14h4v3h-4z" opacity=".35"/>
+    <path d="M246 3h5v14h-5zM254 9h5v8h-5zM262 6h5v11h-5z" opacity=".35"/>
+    <path d="M286 1h5v16h-5zM294 5h5v12h-5zM302 9h5v8h-5z" opacity=".35"/>
+    <text x="330" y="15" class="label" fill="#59636b">Σ</text>
+  </g>
+  <g transform="translate(485 8)">
+    <rect x="0" y="0" width="32" height="32" fill="#e5e5e5"/>
+    <path d="M13 6l8 4-10 17-8-4zM6 25l6 3" fill="none" stroke="#59636b" stroke-width="1.5"/>
+    <path d="M45 8h15v15H45zM43 26l19-21" fill="none" stroke="#59636b" stroke-dasharray="3 3"/>
+    <path d="M80 8h18v16H80zM77 5h24" fill="none" stroke="#59636b"/>
+    <path d="M135 7h18v18h-18zM139 11h4v10h-4zM146 15h4v6h-4z" fill="none" stroke="#59636b"/>
+    <path d="M195 7h14v15h-14zM191 23h22" fill="none" stroke="#59636b"/>
+    <path d="M232 7h18v13h-18zM236 22h10" fill="none" stroke="#b8bec4"/>
+  </g>
+  <rect class="panel" x="0" y="44" width="200" height="312"/>
+  <rect class="panel" x="200" y="44" width="190" height="312"/>
+  <rect class="panel" x="390" y="44" width="430" height="312"/>
+  <rect class="bar" x="0" y="44" width="200" height="34"/>
+  <text class="label" x="12" y="66">Data</text>
+  <text class="label" x="88" y="66">Analytics</text>
+  <path d="M78 44v34M190 55l-6 6 6 6" stroke="#bbb" fill="none"/>
+  <text class="small" x="8" y="93">▱</text>
+  <text class="small" x="28" y="93">dev-datawarehouse</text>
+  <text class="label" x="166" y="92" fill="#d82424">!</text>
+  <rect class="pill" x="6" y="118" width="130" height="24"/>
+  <text class="small" x="15" y="134">Search</text>
+  <path d="M143 124h13l-5 6v6l-3 2v-8z" fill="none" stroke="#606870"/>
+  <path d="M178 125l6 6-6 6z" class="icon"/>
+  <text class="label" x="16" y="166">Tables</text>
+  <line x1="16" y1="183" x2="188" y2="183" stroke="#d1d1d1"/>
+  <rect class="panel" x="206" y="44" width="178" height="46"/>
+  <text class="label" x="224" y="63">Pages</text>
+  <path d="M213 60l5-5 5 5" fill="none" stroke="#777"/>
+  <rect class="panel" x="206" y="96" width="178" height="46"/>
+  <text class="label" x="224" y="115">Filters</text>
+  <path d="M213 112l5-5 5 5" fill="none" stroke="#777"/>
+  <rect class="panel" x="206" y="148" width="178" height="192"/>
+  <text class="label" x="224" y="167">Marks</text>
+  <path d="M213 164l5-5 5 5" fill="none" stroke="#777"/>
+  <rect class="pill" x="214" y="179" width="164" height="23"/>
+  <text class="small" x="235" y="195">Automatic</text>
+  <path d="M222 187h10v10h-10z" fill="none" stroke="#777"/>
+  <path d="M362 188l4 5 4-5z" class="icon"/>
+  <rect class="btn" x="214" y="209" width="49" height="49"/>
+  <circle class="blue" cx="232" cy="224" r="4"/><circle class="pink" cx="240" cy="224" r="4"/><circle class="orange" cx="232" cy="232" r="4"/><circle class="green" cx="240" cy="232" r="4"/>
+  <text class="small" x="226" y="246">Color</text>
+  <rect class="btn" x="271" y="209" width="49" height="49"/>
+  <circle cx="292" cy="224" r="6" fill="none" stroke="#778089"/><circle cx="288" cy="229" r="3" fill="none" stroke="#778089"/>
+  <text class="small" x="286" y="246">Size</text>
+  <rect class="btn" x="327" y="209" width="49" height="49"/>
+  <rect x="344" y="219" width="12" height="12" fill="none" stroke="#778089"/><text x="348" y="229" class="label" fill="#778089">T</text>
+  <text class="small" x="342" y="246">Text</text>
+  <rect class="btn" x="214" y="264" width="49" height="49"/>
+  <path d="M239 275v8M230 287h18M230 292h18M224 292h8M246 292h8" fill="none" stroke="#778089"/>
+  <text class="small" x="224" y="302">Detail</text>
+  <rect class="btn" x="271" y="264" width="49" height="49"/>
+  <path d="M284 276h14v10h-8l-5 5v-5h-1z" fill="none" stroke="#778089"/>
+  <text class="small" x="278" y="302">Tooltip</text>
+  <rect class="bar" x="390" y="44" width="430" height="30"/>
+  <rect class="bar" x="390" y="74" width="430" height="30"/>
+  <rect class="panel" x="390" y="104" width="430" height="252"/>
+  <text class="label" x="398" y="64">Columns</text>
+  <text class="label" x="398" y="94">Rows</text>
+  <text class="text" x="398" y="145" font-size="22">Sheet 1</text>
+  <g>
+    <circle class="call" cx="36" cy="60" r="13"/><text class="num" x="36" y="60">1</text>
+    <circle class="call" cx="122" cy="60" r="13"/><text class="num" x="122" y="60">2</text>
+    <circle class="call" cx="294" cy="57" r="13"/><text class="num" x="294" y="57">3</text>
+    <circle class="call" cx="294" cy="110" r="13"/><text class="num" x="294" y="110">4</text>
+    <circle class="call" cx="294" cy="165" r="13"/><text class="num" x="294" y="165">5</text>
+    <circle class="call" cx="239" cy="226" r="13"/><text class="num" x="239" y="226">6</text>
+    <circle class="call" cx="295" cy="226" r="13"/><text class="num" x="295" y="226">7</text>
+    <circle class="call" cx="351" cy="226" r="13"/><text class="num" x="351" y="226">8</text>
+    <circle class="call" cx="238" cy="281" r="13"/><text class="num" x="238" y="281">9</text>
+    <circle class="call" cx="294" cy="281" r="13"/><text class="num" x="294" y="281">10</text>
+    <circle class="call" cx="465" cy="58" r="13"/><text class="num" x="465" y="58">11</text>
+    <circle class="call" cx="465" cy="90" r="13"/><text class="num" x="465" y="90">12</text>
+    <circle class="call" cx="610" cy="22" r="13"/><text class="num" x="610" y="22">13</text>
+    <circle class="call" cx="520" cy="142" r="13"/><text class="num" x="520" y="142">14</text>
+  </g>
+</svg>

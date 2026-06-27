@@ -1,0 +1,83 @@
+📖 Table of Content
+00:00 - Intro
+03:20 - Tableau Course Structure
+08:35 - #1 Section: Tableau Basics
+08:37 - Big Data Terms
+16:54 - What is Business Intelligence (BI)
+19:34 - What is Data Visualization
+22:50 - Excel vs BI-Tools
+31:28 - Top 3 BI-Tools
+32:22 - What is Tableau
+34:50 - Why Tableau
+==============
+39:54 - #2 Chapter: Tableau Products
+39:54 - Tableau Development Products
+43:36 - Tableau Sharing Process
+54:26 - Tableau Hosting (OnPrem, IaaS, SaaS)
+1:00:24 - Tableau Sharing Products
+==============
+1:12:03 - #3 Section: Tableau Architecture
+1:12:46 - Live vs Extract
+1:14:48 - Tableau File Types
+1:19:16 - Tableau Desktop Architecture
+1:26:39 - Tableau Server Architecture
+==============
+1:48:37 - #4 Section: Prepare the Environment
+1:48:44 - Download & Install Tableau Public
+1:50:06 - Create Tableau Public Account
+1:51:26 - Get Training Datasets
+1:57:18 - Publish First Viz
+1:59:33 - Tour into the Tableau Interface
+==============
+2:13:01 - #5 Section: Combining Data
+2:13:51 - Basics Data Modeling
+2:19:57 - Logical & Physical Layers
+2:25:07 - Joins
+2:33:59 - Union
+2:40:54 - Relationships
+2:57:28 - Data Blending
+3:15:57 - Summary: Combining Methods
+==============
+3:28:46 - #6 Section: Tableau Metadata
+3:29:42 - Data Types
+3:48:35 - Geographic & Image Roles
+3:53:18 - Dimensions & Measures
+4:10:57 - Discrete vs Continuous
+4:25:34 - Summary: Tableau Metadata
+==============
+4:27:16 - #7 Section: Renaming & Aliases
+4:27:50 - Naming Conventions
+4:38:28 - Renaming
+4:48:46 - Aliases
+==============
+4:57:26 - #8 Section: Organizing Data
+4:58:13 - Hierarchy
+5:16:03 - Groups
+5:28:57 - Cluster Group
+5:38:37 - Sets
+6:02:25 - Bins & Histograms
+==============
+6:12:55 - #9 Section: Filtering & Sorting Data
+6:13:40 - Understand Tableau Filters
+6:25:11 - How to Create Filters
+6:48:05 - Customizing Filters
+==============
+8:03:50 - #10 Section: Tableau Parameters
+8:32:09 - #11 Section: Tableau Actions
+==============
+9:05:56 - #12 Section: Tableau Calculations
+9:31:33 - Types of Tableau Calculations
+9:53:53 - Number Functions
+10:04:12 - String Functions
+11:27:55 - Date Functions
+12:17:31 - Null Functions
+12:30:33 - Logical Functions
+13:16:13 - Aggregate Functions
+13:35:24 - Attribute Function ATTR()
+13:59:29 - Fixed
+14:08:55 - Exclude
+14:14:26 - Include
+==============
+15:02:51 - #13 Section: Tableau Charts
+17:55:35 - #14 Section: Tableau Dashboards
+18:22:08 - #15 Section: Tableau Project
